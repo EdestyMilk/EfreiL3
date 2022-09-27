@@ -1,0 +1,42 @@
+Exercice 1:
+I.
+	A. 
+	  1. touch test1 test2.c testt44.pdf test455 testt41.c test510.c test_all.pdf testmaker
+	  2. mkdir Exercice1 && mv ./test* ./Exercice1
+	  3. a) ls -la *5
+	     b) ls -la testt*
+	     c) ls -la *.pdf
+	     d) ls -la t???t*
+	B.
+	  1. a) ls -la ./ | grep -v testmaker
+	     b) ls -la ./ | grep -n *455*
+	     c) ls -la ./ | grep ".*.c"
+Exercice 2:
+II.
+	D. Le rôle de ">" permet de rediriger la sortie standard d'une commande vers un fichier qui est tout le temps crée.
+	F. Le rôle de ">>" permet de rediriger la sortie standard d'une commande en concaténant sa sortie dans un fichier crée en ouvrant une nouvelle ligne
+Exercice 3:
+III.
+	A.
+	  4. La combinaison Ctrl+C envoie un signal pour terminer le processus alors que la commande Ctrl+D donne juste le caractère EOF (End Of File).
+	  5. La commande cat < fich permet d'envoyer le contenu du fichier fich vers l'entrée standard de cat.
+Exercice 4:
+IV.
+	A.
+	  1. On peut constater que le fichier est vide car le mesage d'erreur a été envoyé sur la sortie d'erreur.
+Exercice 5:
+V.
+	A. On a choisi les options O_CREAT et O_EXECL car il faut créer le fichier et vu qu'il est existant désormais on bloque la création de celui-ci à nouveau.
+	B. On peut constater que le fichier est toujours présent et n'a pas été recrée grâce à la balise O_EXECL.
+Exercice 6:
+VI.
+	B. Le programme ouvre le fichier test1.txt et lit 20 caractères de celui-ci.
+	C. Le programme nous renvoie une erreur car il ne trouve pas le fichier et aussi il n'y pas la balise O_CREAT sur la fonction open();
+	D. Le programme ne les affiche tout simplement pas car le tampon n'est qu'à 20 caractères.
+Exercice 8:
+VIII.
+	B. La copie du fichier est réalisé car il a été par l'appel open() et a été rempli par l'appel write en lisant ce que contient le fichier sourcefile.txt
+	C. Les options passés à open sont une ouverture en écriture seulement, créer le fichier, et ouvrir une nouvelle ligne au cas où il existe déjà.
+Exercice 9:
+IX:
+	A. 
