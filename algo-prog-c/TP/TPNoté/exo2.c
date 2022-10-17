@@ -43,9 +43,10 @@ int main(void){
         
         sum_diag[0]=sum_diag[0]+tab[d][d];
     }
-
+    int e=0;
     for(int d=n-1; d >= 0;d--){
-        sum_diag[1]=sum_diag[1]+tab[d][d];
+        sum_diag[1]=sum_diag[1]+tab[e][d];
+        e++;
     }
     printf("Somme Colonne : %d\n Somme Ligne : %d\n", sum_col, sum_line);
     printf("Somme diag 1: %d Somme diag 2: %d\n", sum_diag[0], sum_diag[1]);
