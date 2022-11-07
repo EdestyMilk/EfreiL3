@@ -1,0 +1,1970 @@
+.rwxr-xr-x    18k root  7 févr.  2021 411toppm
+.rwxr-xr-x    52k root  7 févr. 17:03 [
+.rwxr-xr-x    35k root 21 juin  06:46 aa-enabled
+.rwxr-xr-x    35k root 21 juin  06:46 aa-exec
+.rwxr-xr-x    31k root 21 juin  06:46 aa-features-abi
+.rwxr-xr-x    23k root 29 juil. 06:35 aconnect
+.rwxr-xr-x    19k root 25 janv. 11:00 acpi_listen
+.rwxr-xr-x    14k root 26 juil. 13:37 add-apt-repository
+.rwxr-xr-x    15k root 21 févr. 02:49 addpart
+lrwxrwxrwx     26 root 12 mars  06:55 addr2line -> x86_64-linux-gnu-addr2line
+.rwxr-xr-x   150k root 25 mars  10:51 airscan-discover
+.rwxr-xr-x    43k root 29 juil. 06:35 alsabat
+.rwxr-xr-x    85k root 29 juil. 06:35 alsaloop
+.rwxr-xr-x    86k root 29 juil. 06:35 alsamixer
+.rwxr-xr-x    80k root 29 juil. 06:35 alsatplg
+.rwxr-xr-x    32k root 29 juil. 06:35 alsaucm
+.rwxr-xr-x    31k root 29 juil. 06:35 amidi
+.rwxr-xr-x    64k root 29 juil. 06:35 amixer
+lrwxrwxrwx     25 root 12 oct.  15:04 animate -> /etc/alternatives/animate
+lrwxrwxrwx     29 root 12 oct.  15:04 animate-im6 -> /etc/alternatives/animate-im6
+.rwxr-xr-x    14k root  6 févr. 13:53 animate-im6.q16
+.rwxr-xr-x   5,7k root  7 févr.  2021 anytopnm
+.rwxr-xr-x    274 root 23 mars  10:40 apg
+.rwxr-xr-x    27k root 23 mars  10:40 apgbfm
+.rwxr-xr-x    84k root 29 juil. 06:35 aplay
+.rwxr-xr-x    27k root 29 juil. 06:35 aplaymidi
+.rwxr-xr-x   2,6k root 26 oct.   2021 apport-bug
+.rwxr-xr-x    13k root 10 mai   15:23 apport-cli
+lrwxrwxrwx     10 root 10 mai   15:23 apport-collect -> apport-bug
+.rwxr-xr-x   2,1k root 10 mai   15:23 apport-unpack
+.rwxr-xr-x    15k root 25 mars  10:53 appres
+.rwxr-xr-x   121k root 24 févr. 14:58 appstreamcli
+lrwxrwxrwx      6 root 17 mars  20:03 apropos -> whatis
+.rwxr-xr-x    19k root 28 juil. 09:26 apt
+lrwxrwxrwx     18 root 26 juil. 13:37 apt-add-repository -> add-apt-repository
+.rwxr-xr-x    84k root 28 juil. 09:26 apt-cache
+.rwxr-xr-x    27k root 28 juil. 09:26 apt-cdrom
+.rwxr-xr-x    27k root 28 juil. 09:26 apt-config
+.rwxr-xr-x    23k root 28 juil. 09:26 apt-extracttemplates
+.rwxr-xr-x   236k root 28 juil. 09:26 apt-ftparchive
+.rwxr-xr-x    52k root 28 juil. 09:26 apt-get
+.rwxr-xr-x    28k root 28 juil. 09:26 apt-key
+.rwxr-xr-x   2,3k root  5 mai   15:06 apt-manage
+.rwxr-xr-x    52k root 28 juil. 09:26 apt-mark
+.rwxr-xr-x    39k root 28 juil. 09:26 apt-sortpkgs
+.rwxr-xr-x   1,0k root 17 mars  15:06 aptdcon
+lrwxrwxrwx     19 root 12 mars  06:55 ar -> x86_64-linux-gnu-ar
+.rwxr-xr-x    31k root  7 févr. 17:03 arch
+lrwxrwxrwx      5 root 29 juil. 06:35 arecord -> aplay
+.rwxr-xr-x    31k root 29 juil. 06:35 arecordmidi
+.rwxr-xr-x    15k root 23 mars  14:52 arm2hpdl
+lrwxrwxrwx     19 root 12 mars  06:55 as -> x86_64-linux-gnu-as
+.rwxr-xr-x    14k root 15 juin   2021 ascii-xfr
+.rwxr-xr-x    14k root  7 févr.  2021 asciitopgm
+.rwxr-xr-x    27k root 29 juil. 06:35 aseqdump
+.rwxr-xr-x    23k root 29 juil. 06:35 aseqnet
+.rwxr-xr-x   146k root 23 mars  10:41 aspell
+.rwxr-xr-x   2,0k root 23 mars  10:41 aspell-import
+.rwxr-xr-x    14k root  7 févr.  2021 atktopbm
+.rwxr-xr-x    15k root 25 mars  10:53 atobm
+.rwxr-xr-x    31k root 23 mars  10:42 avahi-browse
+lrwxrwxrwx     12 root 23 mars  10:42 avahi-browse-domains -> avahi-browse
+.rwxr-xr-x    27k root 23 mars  10:42 avahi-publish
+lrwxrwxrwx     13 root 23 mars  10:42 avahi-publish-address -> avahi-publish
+lrwxrwxrwx     13 root 23 mars  10:42 avahi-publish-service -> avahi-publish
+.rwxr-xr-x    23k root 23 mars  10:42 avahi-resolve
+lrwxrwxrwx     13 root 23 mars  10:42 avahi-resolve-address -> avahi-resolve
+lrwxrwxrwx     13 root 23 mars  10:42 avahi-resolve-host-name -> avahi-resolve
+.rwxr-xr-x    15k root 23 mars  10:42 avahi-set-host-name
+.rwxr-xr-x    23k root 24 mars  07:30 avinfo
+lrwxrwxrwx     21 root 19 févr. 08:27 awk -> /etc/alternatives/awk
+.rwxr-xr-x    93k root 29 juil. 06:35 axfer
+.rwxr-xr-x    52k root  7 févr. 17:03 b2sum
+.rwxr-xr-x   244k root 14 févr. 19:57 baobab
+.rwxr-xr-x    35k root  7 févr. 17:03 base32
+.rwxr-xr-x    35k root  7 févr. 17:03 base64
+.rwxr-xr-x    35k root  7 févr. 17:03 basename
+.rwxr-xr-x    48k root  7 févr. 17:03 basenc
+.rwxr-xr-x   1,4M root  6 janv. 17:23 bash
+.rwxr-xr-x   6,8k root  6 janv. 17:23 bashbug
+.rwxr-xr-x    93k root 23 mars  10:42 bc
+.rwxr-xr-x    43k root 25 mars  10:54 bdftopcf
+.rwxr-xr-x    14k root 25 mars  10:54 bdftruncate
+.rwxr-xr-x    14k root  7 févr.  2021 bioradtopgm
+.rwxr-xr-x   109k root 25 mars  10:53 bitmap
+.rwxr-xr-x    39k root 24 mars  07:30 bluemoon
+.rwxr-xr-x    35k root  8 avril 20:09 bluetooth-sendto
+.rwxr-xr-x   281k root 24 mars  07:30 bluetoothctl
+.rwxr-xr-x    18k root  7 févr.  2021 bmptopnm
+lrwxrwxrwx      8 root  7 févr.  2021 bmptoppm -> bmptopnm
+.rwxr-xr-x    15k root 25 mars  10:53 bmtoa
+.rwxr-xr-x   126k root  7 févr. 12:31 boltctl
+.rwxr-xr-x    72k root 14 sept. 23:54 bootctl
+.rwxr-xr-x   1,0M root 28 juin  17:25 brltty
+.rwxr-xr-x   294k root 28 juin  17:25 brltty-ctb
+.rwxr-xr-x   244k root 28 juin  17:25 brltty-trtxt
+.rwxr-xr-x   277k root 28 juin  17:25 brltty-ttb
+.rwxr-xr-x   121k root  9 mai   22:15 broadwayd
+lrwxrwxrwx      8 root 22 août  16:47 browse -> xdg-open
+.rwxr-xr-x    14k root  7 févr.  2021 brushtopbm
+.rwxr-xr-x    31k root 24 mars  07:30 btattach
+.rwxr-xr-x   169k root 24 mars  07:30 btmgmt
+.rwxr-xr-x   871k root 24 mars  07:30 btmon
+.rwxr-xr-x    39k root 23 mars  10:45 bunzip2
+.rwxr-xr-x    93k root 14 sept. 23:54 busctl
+.rwxr-xr-x   2,2M root  4 févr. 23:10 busybox
+.rwxr-xr-x    72k root 25 févr. 18:46 bwrap
+.rwxr-xr-x    39k root 23 mars  10:45 bzcat
+lrwxrwxrwx      6 root 23 mars  10:45 bzcmp -> bzdiff
+.rwxr-xr-x   2,2k root 23 mars  10:45 bzdiff
+lrwxrwxrwx      6 root 23 mars  10:45 bzegrep -> bzgrep
+.rwxr-xr-x   4,9k root 27 nov.   2021 bzexe
+lrwxrwxrwx      6 root 23 mars  10:45 bzfgrep -> bzgrep
+.rwxr-xr-x   3,8k root 23 mars  10:45 bzgrep
+.rwxr-xr-x    39k root 23 mars  10:45 bzip2
+.rwxr-xr-x    15k root 23 mars  10:45 bzip2recover
+lrwxrwxrwx      6 root 23 mars  10:45 bzless -> bzmore
+.rwxr-xr-x   1,3k root 23 mars  10:45 bzmore
+lrwxrwxrwx     21 root 22 sept. 16:39 c++ -> /etc/alternatives/c++
+lrwxrwxrwx     24 root 12 mars  06:55 c++filt -> x86_64-linux-gnu-c++filt
+lrwxrwxrwx     21 root 22 sept. 16:39 c89 -> /etc/alternatives/c89
+.rwxr-xr-x    428 root 17 nov.   2020 c89-gcc
+lrwxrwxrwx     21 root 22 sept. 16:39 c99 -> /etc/alternatives/c99
+.rwxr-xr-x    454 root 17 nov.   2020 c99-gcc
+.rwxr-xr-x    14k root 19 oct.   2021 c2050
+.rwxr-xr-x   7,0k root  4 juil. 13:20 c_rehash
+.rwxr-xr-x    15k root 24 mars  13:10 cacaclock
+.rwxr-xr-x   289k root 24 mars  13:10 cacademo
+.rwxr-xr-x    19k root 24 mars  13:10 cacafire
+.rwxr-xr-x    14k root 24 mars  13:10 cacaplay
+.rwxr-xr-x    14k root 24 mars  13:10 cacaserver
+.rwxr-xr-x    23k root 24 mars  13:10 cacaview
+.rwxr-xr-x    27k root 24 mars  17:22 calibrate_ppa
+.rwxr-xr-x    15k root 27 mai   13:53 cancel
+lrwxrwxrwx      3 root 17 janv. 18:02 captoinfo -> tic
+.rwxr-xr-x    35k root  7 févr. 17:03 cat
+.rwxr-xr-x    36k root 17 mars  20:03 catman
+lrwxrwxrwx     20 root 22 sept. 16:39 cc -> /etc/alternatives/cc
+.rwxr-xr-x    27k root 22 févr. 14:25 cd-create-profile
+.rwxr-xr-x    27k root 22 févr. 14:25 cd-fix-profile
+.rwxr-xr-x    15k root 22 févr. 14:25 cd-iccdump
+.rwxr-xr-x    23k root 22 févr. 14:25 cd-it8
+.rwxr-xr-x    23k root 29 août   2021 chacl
+.rwxr-xr-x    96k root  5 sept.  2021 chafa
+.rwxr-sr-x    72k root 14 mars  09:59 chage
+lrwxrwxrwx     10 root 30 déc.   2020 chardet -> chardetect
+.rwxr-xr-x    965 root 30 déc.   2020 chardetect
+lrwxrwxrwx      9 root 31 mars  13:58 charmap -> gucharmap
+.rwxr-xr-x    15k root  2 juin  01:15 chattr
+.rwxr-xr-x    60k root  7 févr. 17:03 chcon
+.rwxr-xr-x   2,8k root 10 avril 00:41 check-language-support
+.rwsr-xr-x    73k root 14 mars  09:59 chfn
+.rwxr-xr-x    56k root  7 févr. 17:03 chgrp
+.rwxr-xr-x    56k root  7 févr. 17:03 chmod
+.rwxr-xr-x    23k root 21 févr. 02:49 choom
+.rwxr-xr-x    60k root  7 févr. 17:03 chown
+.rwxr-xr-x    22k root 17 févr.  2019 chrome-gnome-shell
+.rwxr-xr-x    89k root  8 févr. 04:48 chronyc
+.rwxr-xr-x    27k root 21 févr. 02:49 chrt
+.rwsr-xr-x    45k root 14 mars  09:59 chsh
+.rwxr-xr-x    15k root 24 mars  13:06 chvt
+.rwxr-xr-x    35k root 24 mars  07:30 ciptool
+.rwxr-xr-x    43k root 16 janv. 00:04 cjet
+.rwxr-xr-x   150k root 22 nov.   2021 ckbcomp
+.rwxr-xr-x    35k root  7 févr. 17:03 cksum
+.rwxr-xr-x    15k root 17 janv. 18:02 clear
+.rwxr-xr-x    15k root  6 janv. 17:23 clear_console
+.rwxr-xr-x    27k root 13 janv.  2021 cmatrix
+.rwxr-xr-x    43k root 23 mars  14:50 cmp
+.rwxr-xr-x    14k root  7 févr.  2021 cmuwmtopbm
+lrwxrwxrwx     24 root 12 oct.  15:25 code -> /usr/share/code/bin/code
+.rwxr-xr-x    14k root 24 mars  13:06 codepage
+.rwxr-xr-x    23k root 21 févr. 02:49 col
+.rwxr-xr-x    15k root 21 févr. 02:49 colcrt
+.rwxr-xr-x    60k root 22 févr. 14:25 colormgr
+.rwxr-xr-x    15k root 21 févr. 02:49 colrm
+.rwxr-xr-x    35k root 21 févr. 02:49 column
+.rwxr-xr-x   162k root  6 avril 22:01 com.github.donadigo.eddy
+.rwxr-xr-x   4,8M root 12 août  02:12 com.system76.FirmwareManager.Notify
+.rwxr-xr-x    35k root  7 févr. 17:03 comm
+lrwxrwxrwx     25 root 12 oct.  15:04 compare -> /etc/alternatives/compare
+lrwxrwxrwx     29 root 12 oct.  15:04 compare-im6 -> /etc/alternatives/compare-im6
+.rwxr-xr-x    14k root  6 févr. 13:53 compare-im6.q16
+lrwxrwxrwx     27 root 12 oct.  15:04 composite -> /etc/alternatives/composite
+lrwxrwxrwx     31 root 12 oct.  15:04 composite-im6 -> /etc/alternatives/composite-im6
+.rwxr-xr-x    14k root  6 févr. 13:53 composite-im6.q16
+lrwxrwxrwx     25 root 12 oct.  15:04 conjure -> /etc/alternatives/conjure
+lrwxrwxrwx     29 root 12 oct.  15:04 conjure-im6 -> /etc/alternatives/conjure-im6
+.rwxr-xr-x    14k root  6 févr. 13:53 conjure-im6.q16
+.rwxr-xr-x    60M root 26 août  00:38 containerd
+.rwxr-xr-x   7,4M root 26 août  00:38 containerd-shim
+.rwxr-xr-x   9,6M root 26 août  00:38 containerd-shim-runc-v1
+.rwxr-xr-x   9,6M root 26 août  00:38 containerd-shim-runc-v2
+lrwxrwxrwx     25 root 12 oct.  15:04 convert -> /etc/alternatives/convert
+lrwxrwxrwx     29 root 12 oct.  15:04 convert-im6 -> /etc/alternatives/convert-im6
+.rwxr-xr-x    14k root  6 févr. 13:53 convert-im6.q16
+.rwxr-xr-x    15k root  6 févr. 12:02 corelist
+.rwxr-xr-x   142k root  7 févr. 17:03 cp
+.rwxr-xr-x   8,4k root  6 févr. 12:02 cpan
+.rwxr-xr-x   8,4k root  6 févr. 12:02 cpan5.34-x86_64-linux-gnu
+.rwxr-xr-x   141k root 22 août   2021 cpio
+lrwxrwxrwx      6 root  5 août   2021 cpp -> cpp-11
+lrwxrwxrwx     23 root 24 mars  15:22 cpp-11 -> x86_64-linux-gnu-cpp-11
+.rwxr-sr-x    40k root 23 mars  14:49 crontab
+.rwxr-xr-x   109k root  7 févr. 17:03 csplit
+.rwxr-xr-x    30M root 26 août  00:38 ctr
+lrwxrwxrwx      6 root 24 mars  12:56 ctstat -> lnstat
+.rwxr-xr-x    27k root 27 mars  12:03 cups-calibrate
+.rwxr-xr-x    64k root 27 mai   13:53 cupstestppd
+.rwxr-xr-x   260k root 31 août  21:18 curl
+.rwxr-xr-x    39k root  7 févr. 17:03 cut
+.rwxr-xr-x    14k root 18 févr. 11:49 cvt
+.rwxr-xr-x   304k root 14 févr. 12:48 cvtsudoers
+.rwxr-xr-x   126k root 23 mars  14:49 dash
+.rwxr-xr-x   105k root  7 févr. 17:03 date
+.rwxr-xr-x   224k root 16 févr. 17:51 dbus-broker
+.rwxr-xr-x   125k root 16 févr. 17:51 dbus-broker-launch
+.rwxr-xr-x    15k root  1 avril 19:02 dbus-cleanup-sockets
+.rwxr-xr-x   233k root  1 avril 19:02 dbus-daemon
+.rwxr-xr-x    27k root  1 avril 19:02 dbus-monitor
+.rwxr-xr-x    15k root  1 avril 19:02 dbus-run-session
+.rwxr-xr-x    27k root  1 avril 19:02 dbus-send
+.rwxr-xr-x    15k root  1 avril 19:02 dbus-update-activation-environment
+.rwxr-xr-x    15k root  1 avril 19:02 dbus-uuidgen
+.rwxr-xr-x    27k root 29 avril 18:24 dbxtool
+.rwxr-xr-x    47k root 23 mars  10:42 dc
+.rwxr-xr-x    60k root  2 févr. 22:09 dconf
+.rwxr-xr-x    68k root  7 févr. 17:03 dd
+.rwxr-xr-x    19k root 23 mars  14:52 ddstdecode
+.rwxr-xr-x    15k root 24 mars  13:06 deallocvt
+.rwxr-xr-x    21k root  7 déc.   2021 deb-systemd-helper
+.rwxr-xr-x   6,2k root 15 févr. 23:31 deb-systemd-invoke
+.rwxr-xr-x   2,9k root 20 févr. 15:42 debconf
+.rwxr-xr-x    12k root 20 févr. 15:42 debconf-apt-progress
+.rwxr-xr-x    608 root 20 févr. 15:42 debconf-communicate
+.rwxr-xr-x   1,7k root 20 févr. 15:42 debconf-copydb
+.rwxr-xr-x    647 root 20 févr. 15:42 debconf-escape
+.rwxr-xr-x   3,0k root 20 févr. 15:42 debconf-set-selections
+.rwxr-xr-x   1,8k root 20 févr. 15:42 debconf-show
+.rwxr-xr-x    24k root 23 mars  14:50 debian-distro-info
+.rwxr-xr-x    15k root 21 févr. 02:49 delpart
+.rwxr-xr-x    46k root 17 mai   13:38 delv
+.rwxr-xr-x    28k root  4 nov.   2021 derb
+lrwxrwxrwx     20 root 23 mars  14:50 desktop-file-edit -> desktop-file-install
+.rwxr-xr-x    99k root 23 mars  14:50 desktop-file-install
+.rwxr-xr-x    79k root 23 mars  14:50 desktop-file-validate
+.rwxr-xr-x    85k root  7 févr. 17:03 df
+.rwxr-xr-x   113k root 29 avril 18:24 dfu-tool
+.rwxr-xr-x   4,4k root 11 nov.   2021 dh_bash-completion
+.rwxr-xr-x   4,3k root  1 avril 14:52 dh_dkms
+.rwxr-xr-x   9,4k root 27 févr.  2019 dh_installxmlcatalogs
+.rwxr-xr-x   1,5k root 16 mai    2020 dh_perl_openssl
+.rwxr-xr-x   134k root 23 mars  14:50 diff
+.rwxr-xr-x    56k root 23 mars  14:50 diff3
+.rwxr-xr-x   134k root 17 mai   13:38 dig
+.rwxr-xr-x   138k root  7 févr. 17:03 dir
+.rwxr-xr-x    39k root  7 févr. 17:03 dircolors
+.rwxr-xr-x   443k root  4 juil. 18:17 dirmngr
+.rwxr-xr-x    56k root  4 juil. 18:17 dirmngr-client
+.rwxr-xr-x    31k root  7 févr. 17:03 dirname
+lrwxrwxrwx     25 root 12 oct.  15:04 display -> /etc/alternatives/display
+lrwxrwxrwx     29 root 12 oct.  15:04 display-im6 -> /etc/alternatives/display-im6
+.rwxr-xr-x    14k root  6 févr. 13:53 display-im6.q16
+lrwxrwxrwx     18 root 23 mars  14:50 distro-info -> ubuntu-distro-info
+.rwxr-xr-x    72k root 21 févr. 02:49 dmesg
+lrwxrwxrwx      8 root 23 mars  14:57 dnsdomainname -> hostname
+.rwxr-xr-x    219 root 15 août  20:33 do-release-upgrade
+.rwxr-xr-x    51M root  9 sept. 01:09 docker
+.rwxr-xr-x   845k root  9 sept. 01:09 docker-init
+.rwxr-xr-x   2,7M root  9 sept. 01:09 docker-proxy
+.rwxr-xr-x    85M root  9 sept. 01:09 dockerd
+.rwxr-xr-x    13k root  9 sept. 01:09 dockerd-rootless-setuptool.sh
+.rwxr-xr-x   5,2k root  9 sept. 01:09 dockerd-rootless.sh
+lrwxrwxrwx      8 root 23 mars  14:57 domainname -> hostname
+.rwxr-xr-x   318k root 25 mai   13:11 dpkg
+.rwxr-xr-x    14k root 25 mai   13:11 dpkg-architecture
+.rwxr-xr-x   7,6k root 25 mai   13:11 dpkg-buildflags
+.rwxr-xr-x    32k root 25 mai   13:11 dpkg-buildpackage
+.rwxr-xr-x   7,6k root 25 mai   13:11 dpkg-checkbuilddeps
+.rwxr-xr-x   138k root 25 mai   13:11 dpkg-deb
+.rwxr-xr-x   2,8k root 25 mai   13:11 dpkg-distaddfile
+.rwxr-xr-x   121k root 25 mai   13:11 dpkg-divert
+.rwxr-xr-x    17k root 25 mai   13:11 dpkg-genbuildinfo
+.rwxr-xr-x    18k root 25 mai   13:11 dpkg-genchanges
+.rwxr-xr-x    15k root 25 mai   13:11 dpkg-gencontrol
+.rwxr-xr-x    11k root 25 mai   13:11 dpkg-gensymbols
+.rwxr-xr-x    21k root 25 mai   13:11 dpkg-maintscript-helper
+.rwxr-xr-x   8,9k root 25 mai   13:11 dpkg-mergechangelogs
+.rwxr-xr-x   6,8k root 25 mai   13:11 dpkg-name
+.rwxr-xr-x   4,9k root 25 mai   13:11 dpkg-parsechangelog
+.rwxr-xr-x   142k root 25 mai   13:11 dpkg-query
+.rwxr-xr-x   4,2k root 25 mai   13:11 dpkg-realpath
+.rwxr-xr-x   8,7k root 25 mai   13:11 dpkg-scanpackages
+.rwxr-xr-x   9,2k root 25 mai   13:11 dpkg-scansources
+.rwxr-xr-x    32k root 25 mai   13:11 dpkg-shlibdeps
+.rwxr-xr-x    23k root 25 mai   13:11 dpkg-source
+.rwxr-xr-x   101k root 25 mai   13:11 dpkg-split
+.rwxr-xr-x    47k root 25 mai   13:11 dpkg-statoverride
+.rwxr-xr-x    43k root 25 mai   13:11 dpkg-trigger
+.rwxr-xr-x   3,3k root 25 mai   13:11 dpkg-vendor
+lrwxrwxrwx     29 root  7 avril 23:44 driverless -> ../lib/cups/driver/driverless
+lrwxrwxrwx     33 root  7 avril 23:44 driverless-fax -> ../lib/cups/driver/driverless-fax
+.rwxr-xr-x   150k root  7 févr. 17:03 du
+.rwxr-xr-x   163k root 24 mars  13:06 dumpkeys
+.rwxr-xr-x   1,0k root 23 mars  14:54 dvipdf
+lrwxrwxrwx     20 root 12 mars  06:55 dwp -> x86_64-linux-gnu-dwp
+.rwxr-xr-x    35k root  7 févr. 17:03 echo
+.rwxr-xr-x    14k root 23 nov.   2020 ecryptfs-add-passphrase
+.rwxr-xr-x   1,6k root 23 nov.   2020 ecryptfs-find
+.rwxr-xr-x    14k root 23 nov.   2020 ecryptfs-generate-tpm-key
+.rwxr-xr-x    14k root 23 nov.   2020 ecryptfs-insert-wrapped-passphrase-into-keyring
+.rwxr-xr-x    19k root 23 nov.   2020 ecryptfs-manager
+.rwxr-xr-x   6,2k root 23 nov.   2020 ecryptfs-migrate-home
+.rwxr-xr-x   2,6k root 23 nov.   2020 ecryptfs-mount-private
+.rwxr-xr-x   4,0k root 23 nov.   2020 ecryptfs-recover-private
+.rwxr-xr-x    14k root 23 nov.   2020 ecryptfs-rewrap-passphrase
+.rwxr-xr-x   2,1k root 23 nov.   2020 ecryptfs-rewrite-file
+.rwxr-xr-x    16k root 23 nov.   2020 ecryptfs-setup-private
+.rwxr-xr-x   6,5k root 23 nov.   2020 ecryptfs-setup-swap
+.rwxr-xr-x    14k root 23 nov.   2020 ecryptfs-stat
+.rwxr-xr-x    817 root 23 nov.   2020 ecryptfs-umount-private
+.rwxr-xr-x    14k root 23 nov.   2020 ecryptfs-unwrap-passphrase
+.rwxr-xr-x   5,5k root 23 nov.   2020 ecryptfs-verify
+.rwxr-xr-x    14k root 23 nov.   2020 ecryptfs-wrap-passphrase
+.rwxr-xr-x    23k root 23 nov.   2020 ecryptfsd
+.rwxr-xr-x    56k root 13 févr. 12:08 ed
+lrwxrwxrwx     24 root 19 févr. 08:28 editor -> /etc/alternatives/editor
+.rwxr-xr-x    74k root 25 mars  10:53 editres
+.rwxr-xr-x    23k root  3 août   2021 efibootdump
+.rwxr-xr-x    44k root  3 août   2021 efibootmgr
+.rwxr-xr-x     28 root 23 mars  14:56 egrep
+.rwxr-xr-x    43k root 21 févr. 02:49 eject
+lrwxrwxrwx     24 root 12 mars  06:55 elfedit -> x86_64-linux-gnu-elfedit
+.rwxr-xr-x    42k root  6 févr. 12:02 enc2xs
+.rwxr-xr-x   3,1k root  6 févr. 12:02 encguess
+.rwxr-xr-x    27k root  7 févr. 11:23 enchant-2
+.rwxr-xr-x    19k root  7 févr. 11:23 enchant-lsmod-2
+.rwxr-xr-x    44k root  7 févr. 17:03 env
+.rwxr-xr-x    35k root 25 mars  11:31 envsubst
+.rwxr-xr-x    19k root 21 mars  14:05 eog
+.rwxr-xr-x    639 root 23 mars  14:54 eps2eps
+.rwxr-xr-x   193k root 23 mars  14:56 eqn
+.rwxr-xr-x    14k root 24 mars  17:23 esc-m
+.rwxr-xr-x    27k root 28 juin  17:25 eutp
+.rwxr-xr-x   532k root 17 juin  17:03 evince
+.rwxr-xr-x    72k root 17 juin  17:03 evince-previewer
+.rwxr-xr-x    19k root 17 juin  17:03 evince-thumbnailer
+lrwxrwxrwx     20 root 19 févr. 08:28 ex -> /etc/alternatives/ex
+.rwxr-xr-x   875k root 11 oct.   2021 exa
+.rwxr-xr-x    35k root  7 févr. 17:03 expand
+.rwxr-sr-x    23k root 14 mars  09:59 expiry
+.rwxr-xr-x   109k root  7 févr. 17:03 expr
+.rwxr-xr-x    18k root  7 févr.  2021 eyuvtoppm
+.rwxr-xr-x    72k root  7 févr. 17:03 factor
+.rwxr-xr-x    23k root 14 mars  09:59 faillog
+.rwxr-xr-x    31k root  5 mars  21:33 faked-sysv
+.rwxr-xr-x    31k root  5 mars  21:33 faked-tcp
+lrwxrwxrwx     26 root 22 sept. 16:43 fakeroot -> /etc/alternatives/fakeroot
+.rwxr-xr-x   4,0k root  5 mars  21:33 fakeroot-sysv
+.rwxr-xr-x   4,0k root  5 mars  21:33 fakeroot-tcp
+.rwxr-xr-x    23k root 21 févr. 02:49 fallocate
+.rwxr-xr-x    27k root  7 févr. 17:03 false
+.rwxr-xr-x    23k root 23 mars  14:52 fc-cache
+.rwxr-xr-x    19k root 23 mars  14:52 fc-cat
+.rwxr-xr-x    15k root 23 mars  14:52 fc-conflist
+.rwxr-xr-x    15k root 23 mars  14:52 fc-list
+.rwxr-xr-x    15k root 23 mars  14:52 fc-match
+.rwxr-xr-x    15k root 23 mars  14:52 fc-pattern
+.rwxr-xr-x    15k root 23 mars  14:52 fc-query
+.rwxr-xr-x    15k root 23 mars  14:52 fc-scan
+.rwxr-xr-x    15k root 23 mars  14:52 fc-validate
+lrwxrwxrwx     19 root 18 août  10:14 fdfind -> ../lib/cargo/bin/fd
+.rwxr-xr-x    15k root 24 mars  13:06 fgconsole
+.rwxr-xr-x     28 root 23 mars  14:56 fgrep
+.rwxr-xr-x   121k root  7 févr.  2021 fiascotopnm
+lrwxrwxrwx     24 root 12 oct.  15:04 figlet -> /etc/alternatives/figlet
+lrwxrwxrwx      6 root 25 déc.   2021 figlet-toilet -> toilet
+.rwxr-xr-x    27k root 24 mars  18:07 file
+.rwxr-xr-x   542k root 21 mars  13:57 file-roller
+.rwxr-xr-x    27k root 10 févr. 14:44 file2brl
+.rwxr-xr-x   2,1k root 16 févr. 17:56 finalrd
+.rwxr-xr-x    23k root 21 févr. 02:49 fincore
+.rwxr-xr-x   282k root 23 mars  14:52 find
+.rwxr-xr-x    65k root 21 févr. 02:49 findmnt
+lrwxrwxrwx     22 root 20 sept. 18:06 firefox -> ../lib/firefox/firefox
+.rwxr-xr-x    18k root  7 févr.  2021 fitstopnm
+.rwxr-xr-x   1,3M root 14 mars  18:37 flatpak
+.rwxr-xr-x   7,8k root 14 mars  18:37 flatpak-bisect
+.rwxr-xr-x   3,4k root 14 mars  18:37 flatpak-coredumpctl
+.rwxr-xr-x    23k root 21 févr. 02:49 flock
+.rwxr-xr-x    39k root  7 févr. 17:03 fmt
+.rwxr-xr-x    35k root  7 févr. 17:03 fold
+.rwxr-xr-x    39k root 25 mars  10:54 fonttosfnt
+.rwxr-xr-x    32k root 23 mars  14:52 foo2ddst
+.rwxr-xr-x    17k root 23 mars  14:52 foo2ddst-wrapper
+.rwxr-xr-x    32k root 23 mars  14:52 foo2hbpl2
+.rwxr-xr-x    18k root 23 mars  14:52 foo2hbpl2-wrapper
+.rwxr-xr-x    44k root 23 mars  14:52 foo2hiperc
+.rwxr-xr-x    19k root 23 mars  14:52 foo2hiperc-wrapper
+.rwxr-xr-x    40k root 23 mars  14:52 foo2hp
+.rwxr-xr-x    19k root 23 mars  14:52 foo2hp2600-wrapper
+.rwxr-xr-x    44k root 23 mars  14:52 foo2lava
+.rwxr-xr-x    20k root 23 mars  14:52 foo2lava-wrapper
+.rwxr-xr-x    40k root 23 mars  14:52 foo2oak
+.rwxr-xr-x    18k root 23 mars  14:52 foo2oak-wrapper
+.rwxr-xr-x    44k root 23 mars  14:52 foo2qpdl
+.rwxr-xr-x    20k root 23 mars  14:52 foo2qpdl-wrapper
+.rwxr-xr-x    32k root 23 mars  14:52 foo2slx
+.rwxr-xr-x    18k root 23 mars  14:52 foo2slx-wrapper
+.rwxr-xr-x    32k root 23 mars  14:52 foo2xqx
+.rwxr-xr-x    18k root 23 mars  14:52 foo2xqx-wrapper
+.rwxr-xr-x    44k root 23 mars  14:52 foo2zjs
+lrwxrwxrwx      5 root 23 mars  14:52 foo2zjs-icc2ps -> psicc
+.rwxr-xr-x   3,0k root 23 mars  14:52 foo2zjs-pstops
+.rwxr-xr-x    26k root 23 mars  14:52 foo2zjs-wrapper
+lrwxrwxrwx     31 root  7 avril 23:44 foomatic-rip -> ../lib/cups/filter/foomatic-rip
+.rwxr-xr-x    27k root 25 févr. 12:57 free
+.rwxr-xr-x    14k root  7 févr.  2021 fstopgm
+lrwxrwxrwx     21 root 22 sept. 16:37 ftp -> /etc/alternatives/ftp
+.rwxr-xr-x    23k root 25 mars  10:59 funzip
+.rwxr-xr-x    40k root 24 mars  17:29 fuser
+lrwxrwxrwx     11 root 23 mars  14:53 fusermount -> fusermount3
+.rwsr-xr-x    35k root 23 mars  14:53 fusermount3
+lrwxrwxrwx      8 root 29 avril 18:24 fwupdagent -> fwupdmgr
+.rwxr-xr-x    89k root 29 avril 18:24 fwupdate
+.rwxr-xr-x   195k root 29 avril 18:24 fwupdmgr
+.rwxr-xr-x   413k root 29 avril 18:24 fwupdtool
+lrwxrwxrwx      6 root  5 août   2021 g++ -> g++-11
+lrwxrwxrwx     23 root 24 mars  15:22 g++-11 -> x86_64-linux-gnu-g++-11
+.rwxr-xr-x    18k root  7 févr.  2021 g3topbm
+.rwxr-xr-x    15k root 27 mars  18:31 gamma4scanimage
+.rwxr-xr-x    23k root 14 avril 15:35 gapplication
+.rwxr-xr-x   106k root 24 mars  07:30 gatttool
+.rwxr-xr-x   322k root 21 mars  15:38 gcalccmd
+lrwxrwxrwx      6 root  5 août   2021 gcc -> gcc-11
+lrwxrwxrwx     23 root 24 mars  15:22 gcc-11 -> x86_64-linux-gnu-gcc-11
+lrwxrwxrwx      9 root  5 août   2021 gcc-ar -> gcc-ar-11
+lrwxrwxrwx     26 root 24 mars  15:22 gcc-ar-11 -> x86_64-linux-gnu-gcc-ar-11
+lrwxrwxrwx      9 root  5 août   2021 gcc-nm -> gcc-nm-11
+lrwxrwxrwx     26 root 24 mars  15:22 gcc-nm-11 -> x86_64-linux-gnu-gcc-nm-11
+lrwxrwxrwx     13 root  5 août   2021 gcc-ranlib -> gcc-ranlib-11
+lrwxrwxrwx     30 root 24 mars  15:22 gcc-ranlib-11 -> x86_64-linux-gnu-gcc-ranlib-11
+lrwxrwxrwx      7 root  5 août   2021 gcov -> gcov-11
+lrwxrwxrwx     24 root 24 mars  15:22 gcov-11 -> x86_64-linux-gnu-gcov-11
+lrwxrwxrwx     12 root  5 août   2021 gcov-dump -> gcov-dump-11
+lrwxrwxrwx     29 root 24 mars  15:22 gcov-dump-11 -> x86_64-linux-gnu-gcov-dump-11
+lrwxrwxrwx     12 root  5 août   2021 gcov-tool -> gcov-tool-11
+lrwxrwxrwx     29 root 24 mars  15:22 gcov-tool-11 -> x86_64-linux-gnu-gcov-tool-11
+.rwxr-xr-x    15k root 23 mars  21:18 gcr-viewer
+.rwxr-xr-x    52k root 14 avril 15:35 gdbus
+.rwxr-xr-x   2,0k root 14 avril 15:35 gdbus-codegen
+.rwxr-xr-x   9,2k root  1 mai   20:39 gdialog
+.rwxr-xr-x    15k root  7 sept. 16:14 gdk-pixbuf-csource
+.rwxr-xr-x    15k root  7 sept. 16:14 gdk-pixbuf-pixdata
+.rwxr-xr-x    19k root  7 sept. 16:14 gdk-pixbuf-thumbnailer
+.rwxr-xr-x    19k root 18 avril 19:03 gdm-screenshot
+.rwxr-xr-x    23k root 18 avril 19:03 gdmflexiserver
+.rwxr-xr-x    68k root 15 févr. 14:58 geary
+.rwxr-xr-x    15k root  2 mars  13:34 gedit
+lrwxrwxrwx      8 root  7 févr.  2021 gemtopbm -> gemtopnm
+.rwxr-xr-x    14k root  7 févr.  2021 gemtopnm
+.rwxr-xr-x    15k root  4 nov.   2021 genbrk
+.rwxr-xr-x    27k root  7 juil. 01:23 gencat
+.rwxr-xr-x    15k root  4 nov.   2021 gencfu
+.rwxr-xr-x    27k root  4 nov.   2021 gencnval
+.rwxr-xr-x    27k root  4 nov.   2021 gendict
+.rwxr-xr-x   151k root  4 nov.   2021 genrb
+lrwxrwxrwx      3 root 23 mars  14:56 geqn -> eqn
+lrwxrwxrwx     11 root 28 janv. 19:57 GET -> lwp-request
+.rwxr-xr-x    35k root  7 juil. 01:23 getconf
+.rwxr-xr-x    40k root  7 juil. 01:23 getent
+.rwxr-xr-x    32k root 29 août   2021 getfacl
+.rwxr-xr-x    15k root 24 mars  13:06 getkeycodes
+.rwxr-xr-x    23k root 21 févr. 02:49 getopt
+.rwxr-xr-x    35k root 25 mars  11:31 gettext
+.rwxr-xr-x   5,2k root 25 mars  11:31 gettext.sh
+lrwxrwxrwx      2 root 23 mars  14:54 ghostscript -> gs
+.rwxr-xr-x    23k root  7 févr.  2021 giftopnm
+lrwxrwxrwx     12 root  6 févr. 13:48 ginstall-info -> install-info
+.rwxr-xr-x    93k root 14 avril 15:35 gio
+lrwxrwxrwx     49 root 14 avril 15:35 gio-querymodules -> ../lib/x86_64-linux-gnu/glib-2.0/gio-querymodules
+.rwxr-xr-x    19k root 23 mars  14:52 gipddecode
+.rwxr-xr-x   3,7M root  5 juil. 15:11 git
+lrwxrwxrwx      3 root  5 juil. 15:11 git-receive-pack -> git
+.rwxr-xr-x   562k root  5 juil. 15:11 git-shell
+lrwxrwxrwx      3 root  5 juil. 15:11 git-upload-archive -> git
+lrwxrwxrwx      3 root  5 juil. 15:11 git-upload-pack -> git
+.rwxr-xr-x   401k root  5 juil. 15:11 gitk
+lrwxrwxrwx     11 root 10 août  18:26 gjs -> gjs-console
+.rwxr-xr-x    23k root 10 août  18:26 gjs-console
+.rwxr-xr-x    15k root  8 janv. 22:45 gkbd-keyboard-display
+.rwxr-xr-x    47k root 14 avril 15:35 glib-compile-resources
+lrwxrwxrwx     53 root 14 avril 15:35 glib-compile-schemas -> ../lib/x86_64-linux-gnu/glib-2.0/glib-compile-schemas
+.rwxr-xr-x    41k root 14 avril 15:35 glib-genmarshal
+.rwxr-xr-x   5,4k root 14 avril 15:35 glib-gettextize
+.rwxr-xr-x    31k root 14 avril 15:35 glib-mkenums
+lrwxrwxrwx      4 root 15 févr. 16:32 gmake -> make
+.rwxr-xr-x   937k root 21 mars  15:38 gnome-calculator
+.rwxr-xr-x   660k root 14 févr. 22:34 gnome-calendar
+.rwxr-xr-x   453k root 15 févr. 16:10 gnome-contacts
+.rwxr-xr-x   4,6M root 20 mai   21:40 gnome-control-center
+.rwxr-xr-x    23k root  4 avril 21:43 gnome-disk-image-mounter
+.rwxr-xr-x   745k root  4 avril 21:43 gnome-disks
+.rwxr-xr-x    64k root 15 août  21:37 gnome-extensions
+.rwxr-xr-x     72 root 15 août  21:37 gnome-extensions-app
+.rwxr-xr-x    97k root 14 févr. 18:08 gnome-font-viewer
+lrwxrwxrwx      4 root 28 mars  14:21 gnome-help -> yelp
+lrwxrwxrwx     15 root 21 juin  09:27 gnome-keyring -> gnome-keyring-3
+.rwxr-xr-x    23k root 21 juin  09:27 gnome-keyring-3
+.rwxr-xr-x   1,0M root 21 juin  09:27 gnome-keyring-daemon
+.rwxr-xr-x   1,4k root 10 avril 00:41 gnome-language-selector
+.rwxr-xr-x    68k root 23 mars  14:55 gnome-power-statistics
+.rwxr-xr-x    803 root  7 avril 21:07 gnome-session
+.rwxr-xr-x     54 root 21 mars  21:13 gnome-session-custom-session
+.rwxr-xr-x    23k root  7 avril 21:07 gnome-session-inhibit
+.rwxr-xr-x    68k root  7 avril 21:07 gnome-session-properties
+.rwxr-xr-x    15k root  7 avril 21:07 gnome-session-quit
+.rwxr-xr-x    31k root 15 août  21:37 gnome-shell
+.rwxr-xr-x    682 root 15 août  21:37 gnome-shell-extension-prefs
+.rwxr-xr-x   1,7k root 15 août  21:37 gnome-shell-extension-tool
+.rwxr-xr-x    11k root 15 août  21:37 gnome-shell-perf-tool
+.rwxr-xr-x   359k root 21 mars  15:13 gnome-system-monitor
+.rwxr-xr-x   3,4k root 25 avril 23:26 gnome-terminal
+.rwxr-xr-x    77k root 25 avril 23:26 gnome-terminal.real
+.rwxr-xr-x   2,7k root 25 avril 23:26 gnome-terminal.wrapper
+lrwxrwxrwx     35 root 22 sept. 16:44 gnome-text-editor -> /etc/alternatives/gnome-text-editor
+.rwxr-xr-x    27k root 14 févr. 18:08 gnome-thumbnail-font
+.rwxr-xr-x   2,8k root 31 août  10:31 gnome-tweaks
+lrwxrwxrwx     44 root 21 avril 02:38 gnome-weather -> ../share/org.gnome.Weather/org.gnome.Weather
+.rwxr-xr-x    15k root 14 avril 15:35 gobject-query
+lrwxrwxrwx     21 root 12 mars  06:55 gold -> x86_64-linux-gnu-gold
+.rwxr-xr-x    14k root  7 févr.  2021 gouldtoppm
+.rwsr-xr-x    72k root 14 mars  09:59 gpasswd
+.rwxr-xr-x   1,1M root  4 juil. 18:17 gpg
+.rwxr-xr-x   320k root  4 juil. 18:17 gpg-agent
+.rwxr-xr-x    85k root  4 juil. 18:17 gpg-connect-agent
+.rwxr-xr-x   118k root  4 juil. 18:17 gpg-wks-server
+.rwxr-xr-x   3,5k root  4 juil. 18:17 gpg-zip
+.rwxr-xr-x   508k root  4 juil. 18:17 gpgcompose
+.rwxr-xr-x   130k root  4 juil. 18:17 gpgconf
+.rwxr-xr-x    35k root  4 juil. 18:17 gpgparsemail
+.rwxr-xr-x   429k root  4 juil. 18:17 gpgsm
+.rwxr-xr-x    27k root  4 juil. 18:17 gpgsplit
+.rwxr-xr-x    65k root  4 juil. 18:17 gpgtar
+.rwxr-xr-x   278k root  4 juil. 18:17 gpgv
+lrwxrwxrwx      3 root 23 mars  14:56 gpic -> pic
+lrwxrwxrwx     22 root 12 mars  06:55 gprof -> x86_64-linux-gnu-gprof
+.rwxr-xr-x    73k root 11 mai   23:04 gpu-manager
+.rwxr-xr-x    27k root 16 août  17:10 grdctl
+.rwxr-xr-x   183k root 23 mars  14:56 grep
+lrwxrwxrwx     10 root 23 mars  14:49 grep-aptavail -> grep-dctrl
+lrwxrwxrwx     10 root 23 mars  14:49 grep-available -> grep-dctrl
+.rwxr-xr-x    49k root 23 mars  14:49 grep-dctrl
+lrwxrwxrwx     10 root 23 mars  14:49 grep-debtags -> grep-dctrl
+lrwxrwxrwx     10 root 23 mars  14:49 grep-status -> grep-dctrl
+.rwxr-xr-x    23k root 14 avril 15:35 gresource
+.rwxr-xr-x    97k root 23 mars  14:56 groff
+.rwxr-xr-x   2,8k root 23 mars  14:56 grog
+.rwxr-xr-x   166k root 23 mars  14:56 grops
+.rwxr-xr-x   121k root 23 mars  14:56 grotty
+.rwxr-xr-x    35k root  7 févr. 17:03 groups
+.rwxr-xr-x   386k root 15 avril 23:50 grub-editenv
+.rwxr-xr-x   836k root 15 avril 23:50 grub-file
+.rwxr-xr-x   960k root 15 avril 23:50 grub-fstest
+.rwxr-xr-x   254k root 15 avril 23:50 grub-glue-efi
+.rwxr-xr-x   1,7k root 15 avril 23:50 grub-kbdcomp
+.rwxr-xr-x   234k root 15 avril 23:50 grub-menulst2cfg
+.rwxr-xr-x   279k root 15 avril 23:50 grub-mkfont
+.rwxr-xr-x   370k root 15 avril 23:50 grub-mkimage
+.rwxr-xr-x   258k root 15 avril 23:50 grub-mklayout
+.rwxr-xr-x   428k root 15 avril 23:50 grub-mknetdir
+.rwxr-xr-x   262k root 15 avril 23:50 grub-mkpasswd-pbkdf2
+.rwxr-xr-x   254k root 15 avril 23:50 grub-mkrelpath
+.rwxr-xr-x   1,0M root 15 avril 23:50 grub-mkrescue
+.rwxr-xr-x   506k root 15 avril 23:50 grub-mkstandalone
+.rwxr-xr-x   779k root 15 avril 23:50 grub-mount
+lrwxrwxrwx     34 root 15 avril 23:50 grub-ntldr-img -> ../lib/grub/i386-pc/grub-ntldr-img
+.rwxr-xr-x   849k root 15 avril 23:50 grub-render-label
+.rwxr-xr-x   282k root 15 avril 23:50 grub-script-check
+.rwxr-xr-x   800k root 15 avril 23:50 grub-syslinux2cfg
+.rwxr-xr-x    14k root 23 mars  14:54 gs
+.rwxr-xr-x    350 root 23 mars  14:54 gsbj
+.rwxr-xr-x    352 root 23 mars  14:54 gsdj
+.rwxr-xr-x    352 root 23 mars  14:54 gsdj500
+.rwxr-xr-x    31k root 14 avril 15:35 gsettings
+.rwxr-xr-x    353 root 23 mars  14:54 gslj
+.rwxr-xr-x    350 root 23 mars  14:54 gslp
+.rwxr-xr-x    277 root 23 mars  14:54 gsnd
+.rwxr-xr-x    23k root 14 mars  15:45 gst-device-monitor-1.0
+.rwxr-xr-x    35k root 14 mars  15:45 gst-discoverer-1.0
+.rwxr-xr-x    64k root 30 juin  15:26 gst-inspect-1.0
+.rwxr-xr-x   1,0k root  4 mars  01:03 gst-install
+.rwxr-xr-x    39k root 30 juin  15:26 gst-launch-1.0
+.rwxr-xr-x    52k root 14 mars  15:45 gst-play-1.0
+.rwxr-xr-x    35k root 30 juin  15:26 gst-stats-1.0
+.rwxr-xr-x    15k root 30 juin  15:26 gst-tester-1.0
+.rwxr-xr-x    19k root 30 juin  15:26 gst-typefind-1.0
+lrwxrwxrwx     41 root 22 sept. 16:44 gstreamer-codec-install -> /etc/alternatives/gstreamer-codec-install
+lrwxrwxrwx      3 root 23 mars  14:56 gtbl -> tbl
+.rwxr-xr-x    31k root 14 avril 15:35 gtester
+.rwxr-xr-x    19k root 14 avril 15:35 gtester-report
+.rwxr-xr-x    19k root  6 juil. 15:45 gtf
+.rwxr-xr-x    36k root  9 mai   22:15 gtk-builder-tool
+.rwxr-xr-x    19k root  9 mai   22:15 gtk-encode-symbolic-svg
+.rwxr-xr-x    19k root  9 mai   22:15 gtk-launch
+.rwxr-xr-x    15k root  9 mai   22:15 gtk-query-settings
+.rwxr-xr-x    39k root  9 mai   22:15 gtk-update-icon-cache
+.rwxr-xr-x    56k root  5 juil. 20:21 gtk4-builder-tool
+.rwxr-xr-x   8,4M root  5 juil. 20:21 gtk4-encode-symbolic-svg
+.rwxr-xr-x    19k root  5 juil. 20:21 gtk4-launch
+.rwxr-xr-x    15k root  5 juil. 20:21 gtk4-query-settings
+.rwxr-xr-x    40k root  5 juil. 20:21 gtk4-update-icon-cache
+.rwxr-xr-x    80k root 31 mars  13:58 gucharmap
+.rwxr-xr-x   2,3k root  8 avril 12:53 gunzip
+.rwxr-xr-x   6,4k root  8 avril 12:53 gzexe
+.rwxr-xr-x    98k root  8 avril 12:53 gzip
+.rwxr-xr-x    29k root  6 févr. 12:02 h2ph
+.rwxr-xr-x    61k root  6 févr. 12:02 h2xs
+.rwxr-xr-x    35k root 21 févr. 02:49 hardlink
+.rwxr-xr-x    27k root 23 mars  14:52 hbpldecode
+.rwxr-xr-x    58k root 24 mars  07:30 hciattach
+.rwxr-xr-x   168k root 24 mars  07:30 hciconfig
+.rwxr-xr-x   164k root 24 mars  07:30 hcitool
+lrwxrwxrwx      7 root 21 févr. 02:49 hd -> hexdump
+.rwxr-xr-x    44k root  7 févr. 17:03 head
+lrwxrwxrwx     11 root 28 janv. 19:57 HEAD -> lwp-request
+.rwxr-xr-x   2,5k root  3 janv. 23:57 helpztags
+.rwxr-xr-x    19k root 24 mars  07:30 hex2hcd
+.rwxr-xr-x    52k root 21 févr. 02:49 hexdump
+.rwxr-xr-x    19k root 23 mars  14:52 hipercdecode
+.rwxr-xr-x    14k root  7 févr.  2021 hipstopgm
+.rwxr-xr-x    97k root 17 mai   13:38 host
+.rwxr-xr-x    31k root  7 févr. 17:03 hostid
+.rwxr-xr-x    23k root 23 mars  14:57 hostname
+.rwxr-xr-x    31k root 14 sept. 23:54 hostnamectl
+.rwxr-xr-x   284k root 23 mars  14:58 htop
+lrwxrwxrwx      7 root 21 févr. 02:49 i386 -> setarch
+lrwxrwxrwx     34 root 22 sept. 16:43 i686-linux-gnu-pkg-config -> /usr/share/pkg-config-crosswrapper
+.rwxr-xr-x    39k root 10 avril 14:16 ibus
+.rwxr-xr-x   199k root 10 avril 14:16 ibus-daemon
+.rwxr-xr-x   1,2k root 10 avril 14:16 ibus-setup
+.rwxr-xr-x   1,1k root  2 févr. 03:04 ibus-table-createdb
+.rwxr-xr-x    43k root 25 mars  10:53 iceauth
+.rwxr-xr-x    52k root 25 mars  10:53 ico
+.rwxr-xr-x    14k root  7 févr.  2021 icontopbm
+.rwxr-xr-x    68k root  7 juil. 01:23 iconv
+.rwxr-xr-x    32k root  4 nov.   2021 icuexportdata
+.rwxr-xr-x    15k root  4 nov.   2021 icuinfo
+.rwxr-xr-x    39k root  7 févr. 17:03 id
+lrwxrwxrwx     26 root 12 oct.  15:04 identify -> /etc/alternatives/identify
+lrwxrwxrwx     30 root 12 oct.  15:04 identify-im6 -> /etc/alternatives/identify-im6
+.rwxr-xr-x    14k root  6 févr. 13:53 identify-im6.q16
+.rwxr-xr-x    27k root 29 juil. 06:35 iecset
+.rwxr-xr-x    35k root 25 mars  10:51 ijs_pxljr
+.rwxr-xr-x    68k root  7 févr.  2021 ilbmtoppm
+.rwxr-xr-x    11k root 17 janv. 15:49 im-config
+.rwxr-xr-x   1,8k root 18 déc.   2020 im-launch
+.rwxr-xr-x   1,2k root  7 févr.  2021 imagetops
+.rwxr-xr-x    27k root 14 janv. 00:18 img2sixel
+.rwxr-xr-x    19k root 24 mars  13:10 img2txt
+.rwxr-xr-x    14k root  7 févr.  2021 imgtoppm
+lrwxrwxrwx     24 root 12 oct.  15:04 import -> /etc/alternatives/import
+lrwxrwxrwx     28 root 12 oct.  15:04 import-im6 -> /etc/alternatives/import-im6
+.rwxr-xr-x    14k root  6 févr. 13:53 import-im6.q16
+.rwxr-xr-x   309k root  6 févr. 13:48 info
+lrwxrwxrwx     29 root 22 sept. 16:37 infobrowser -> /etc/alternatives/infobrowser
+.rwxr-xr-x    64k root 17 janv. 18:02 infocmp
+lrwxrwxrwx      3 root 17 janv. 18:02 infotocap -> tic
+.rwxr-xr-x    35k root 24 mars  13:05 inputattach
+.rwxr-xr-x   146k root  7 févr. 17:03 install
+.rwxr-xr-x   106k root  6 févr. 13:48 install-info
+.rwxr-xr-x   293k root 22 mars   2020 install-menu
+.rwxr-xr-x     95 root 21 févr. 15:01 install-printerdriver
+.rwxr-xr-x   4,4k root  6 févr. 12:02 instmodsh
+.rwxr-xr-x    72k root  9 févr. 11:51 intel-virtual-output
+.rwxr-xr-x   1,4M root  3 août  21:08 io.elementary.appcenter
+.rwxr-xr-x    19k root 21 févr. 02:49 ionice
+.rwxr-xr-x   719k root 24 mars  12:56 ip
+.rwxr-xr-x    23k root 21 févr. 02:49 ipcmk
+.rwxr-xr-x    19k root 21 févr. 02:49 ipcrm
+.rwxr-xr-x    39k root 21 févr. 02:49 ipcs
+.rwxr-xr-x    43k root 27 mai   13:53 ippfind
+.rwxr-xr-x    97k root 27 mai   13:53 ipptool
+lrwxrwxrwx     28 root 24 mars  12:58 iptables-xml -> ../sbin/xtables-legacy-multi
+.rwxr-xr-x    15k root 23 mars  14:49 ischroot
+.rwxr-xr-x    19k root  6 avril 09:39 isdv4-serial-debugger
+.rwxr-xr-x    19k root  6 avril 09:39 isdv4-serial-inputattach
+.rwxr-xr-x   7,2k root  2 déc.   2021 ispell-wrapper
+.rwxr-xr-x    48k root  7 févr. 17:03 join
+.rwxr-xr-x    36k root 23 mars  14:49 join-dctrl
+.rwxr-xr-x    80k root 14 sept. 23:54 journalctl
+.rwxr-xr-x    52k root 25 nov.   2021 jp2a
+.rwxr-xr-x    31k root  7 févr.  2021 jpegtopnm
+.rwxr-xr-x    35k root 24 mars  13:09 jpgicc
+.rwxr-xr-x   5,0k root  6 févr. 12:02 json_pp
+.rwxr-xr-x    31k root 28 janv. 13:55 JxrDecApp
+.rwxr-xr-x    33k root 28 janv. 13:55 JxrEncApp
+.rwxr-xr-x    15k root 24 mars  13:06 kbd_mode
+.rwxr-xr-x    19k root 24 mars  13:06 kbdinfo
+.rwxr-xr-x    64k root  4 juil. 18:17 kbxutil
+.rwxr-xr-x   4,9k root 14 sept. 23:54 kernel-install
+.rwxr-xr-x   6,9k root 22 juil. 16:06 kernelstub
+.rwxr-xr-x    47k root 28 févr. 10:44 keyctl
+.rwxr-xr-x    961 root  2 janv. 15:55 keyring
+.rwxr-xr-x    31k root 25 févr. 12:57 kill
+.rwxr-xr-x    32k root 24 mars  17:29 killall
+.rwxr-xr-x   170k root 17 août   2021 kmod
+.rwxr-xr-x    19k root  5 nov.   2021 kmodsign
+lrwxrwxrwx     18 root  7 juil. 04:52 kvm -> qemu-system-x86_64
+.rwxr-xr-x    401 root  7 juil. 04:52 kvm-spice
+.rwxr-xr-x    15k root 24 mars  07:30 l2ping
+.rwxr-xr-x    35k root 24 mars  07:30 l2test
+.rwxr-xr-x   3,8k root 12 août   2017 laptop-detect
+.rwxr-xr-x    35k root 21 févr. 02:49 last
+lrwxrwxrwx      4 root 21 févr. 02:49 lastb -> last
+.rwxr-xr-x    28k root 14 mars  09:59 lastlog
+.rwxr-xr-x    23k root 23 mars  14:52 lavadecode
+.rwxr-xr-x   7,8k root 16 juin   2020 lcf
+lrwxrwxrwx     19 root 12 mars  06:55 ld -> x86_64-linux-gnu-ld
+lrwxrwxrwx     23 root 12 mars  06:55 ld.bfd -> x86_64-linux-gnu-ld.bfd
+lrwxrwxrwx     24 root 12 mars  06:55 ld.gold -> x86_64-linux-gnu-ld.gold
+.rwxr-xr-x   5,4k root  7 juil. 01:23 ldd
+.rwxr-xr-x    14k root  7 févr.  2021 leaftoppm
+.rwxr-xr-x   199k root 24 mars  13:09 less
+.rwxr-xr-x    15k root 24 mars  13:09 lessecho
+lrwxrwxrwx      8 root 24 mars  13:09 lessfile -> lesspipe
+.rwxr-xr-x    24k root 24 mars  13:09 lesskey
+.rwxr-xr-x   9,0k root 28 déc.   2021 lesspipe
+.rwxr-xr-x   102k root 17 mars  20:03 lexgrog
+.rwxr-xr-x    16k root  6 févr. 12:02 libnetcfg
+lrwxrwxrwx     34 root  5 sept. 16:18 libreoffice -> ../lib/libreoffice/program/soffice
+.rwxr-xr-x   1,8k root 14 janv. 00:18 libsixel-config
+.rwxr-xr-x    15k root  1 avril 08:58 libwacom-list-devices
+.rwxr-xr-x    19k root  1 avril 08:58 libwacom-list-local-devices
+.rwxr-xr-x   6,1k root  1 avril 08:58 libwacom-show-stylus
+.rwxr-xr-x   9,1k root 25 mars  07:04 libwacom-update-db
+.rwxr-xr-x    31k root  7 févr. 17:03 link
+.rwxr-xr-x    27k root 24 mars  13:09 linkicc
+.rwxr-xr-x   1,6k root 11 juil.  2021 linux-boot-prober
+.rwxr-xr-x   4,1k root 25 juin   2020 linux-check-removal
+.rwxr-xr-x   6,3k root 25 juin   2020 linux-update-symlinks
+.rwxr-xr-x   2,7k root  3 mai    2021 linux-version
+lrwxrwxrwx      7 root 21 févr. 02:49 linux32 -> setarch
+lrwxrwxrwx      7 root 21 févr. 02:49 linux64 -> setarch
+.rwxr-xr-x    14k root  7 févr.  2021 lispmtopgm
+.rwxr-xr-x    15k root 25 mars  10:53 listres
+.rwxr-xr-x    60k root  7 févr. 17:03 ln
+.rwxr-xr-x    23k root 24 mars  12:56 lnstat
+.rwxr-xr-x   204k root 24 mars  13:06 loadkeys
+.rwxr-xr-x    31k root 24 mars  13:06 loadunimap
+.rwxr-xr-x     59 root  5 sept. 16:18 localc
+.rwxr-xr-x    59k root  7 juil. 01:23 locale
+.rwxr-xr-x    14k root 28 juil. 17:29 locale-check
+.rwxr-xr-x    27k root 14 sept. 23:54 localectl
+.rwxr-xr-x   335k root  7 juil. 01:23 localedef
+.rwxr-xr-x     59 root  5 sept. 16:18 lodraw
+.rwxr-xr-x     53 root  5 sept. 16:18 loffice
+.rwxr-xr-x     64 root  5 sept. 16:18 lofromtemplate
+.rwxr-xr-x    36k root 21 févr. 02:49 logger
+.rwxr-xr-x    53k root 14 mars  09:59 login
+.rwxr-xr-x    60k root 14 sept. 23:54 loginctl
+.rwxr-xr-x    31k root  7 févr. 17:03 logname
+.rwxr-xr-x     62 root  5 sept. 16:18 loimpress
+.rwxr-xr-x     59 root  5 sept. 16:18 lomath
+.rwxr-xr-x    15k root 21 févr. 02:49 look
+.rwxr-xr-x     58 root  5 sept. 16:18 loweb
+.rwxr-xr-x   118k root  6 juin  19:57 lowntfs-3g
+.rwxr-xr-x     61 root  5 sept. 16:18 lowriter
+.rwxr-xr-x    27k root 27 mai   13:53 lp
+.rwxr-xr-x    60k root 24 mars  17:24 lp_solve
+.rwxr-xr-x    23k root 27 mai   13:53 lpoptions
+.rwxr-xr-x    23k root 27 mai   13:53 lpq
+.rwxr-xr-x    19k root 27 mai   13:53 lpr
+.rwxr-xr-x    15k root 27 mai   13:53 lprm
+.rwxr-xr-x    40k root 27 mai   13:53 lpstat
+.rwxr-xr-x   138k root  7 févr. 17:03 ls
+.rwxr-xr-x    15k root  2 juin  01:15 lsattr
+.rwxr-xr-x   3,6k root 25 août   2019 lsb_release
+.rwxr-xr-x   125k root 21 févr. 02:49 lsblk
+.rwxr-xr-x   101k root 21 févr. 02:49 lscpu
+.rwxr-xr-x   923k root 24 mars  17:22 lshw
+.rwxr-xr-x    706 root  8 févr. 20:54 lsinitramfs
+.rwxr-xr-x    52k root 21 févr. 02:49 lsipc
+.rwxr-xr-x    31k root 21 févr. 02:49 lslocks
+.rwxr-xr-x    52k root 21 févr. 02:49 lslogins
+.rwxr-xr-x    39k root 21 févr. 02:49 lsmem
+lrwxrwxrwx      4 root 17 août   2021 lsmod -> kmod
+.rwxr-xr-x    39k root 21 févr. 02:49 lsns
+.rwxr-xr-x   168k root 24 mars  17:16 lsof
+.rwxr-xr-x    94k root 30 août   2021 lspci
+.rwxr-xr-x   1,1k root 28 août   2017 lspgpot
+.rwxr-xr-x   252k root 25 mars  10:53 lsusb
+lrwxrwxrwx     28 root 24 mars  15:22 lto-dump-11 -> x86_64-linux-gnu-lto-dump-11
+.rwxr-xr-x    50k root 25 mars  10:53 luit
+.rwxr-xr-x    10k root 28 janv. 19:57 lwp-download
+.rwxr-xr-x   2,7k root 28 janv. 19:57 lwp-dump
+.rwxr-xr-x   2,4k root 28 janv. 19:57 lwp-mirror
+.rwxr-xr-x    16k root 28 janv. 19:57 lwp-request
+lrwxrwxrwx     23 root 22 sept. 16:37 lzcat -> /etc/alternatives/lzcat
+lrwxrwxrwx     23 root 22 sept. 16:37 lzcmp -> /etc/alternatives/lzcmp
+lrwxrwxrwx     24 root 22 sept. 16:37 lzdiff -> /etc/alternatives/lzdiff
+lrwxrwxrwx     25 root 22 sept. 16:37 lzegrep -> /etc/alternatives/lzegrep
+lrwxrwxrwx     25 root 22 sept. 16:37 lzfgrep -> /etc/alternatives/lzfgrep
+lrwxrwxrwx     24 root 22 sept. 16:37 lzgrep -> /etc/alternatives/lzgrep
+lrwxrwxrwx     24 root 22 sept. 16:37 lzless -> /etc/alternatives/lzless
+lrwxrwxrwx     22 root 22 sept. 16:37 lzma -> /etc/alternatives/lzma
+.rwxr-xr-x    15k root  8 avril 14:51 lzmainfo
+lrwxrwxrwx     24 root 22 sept. 16:37 lzmore -> /etc/alternatives/lzmore
+.rwxr-xr-x    30k root 24 mars  17:23 m2300w
+.rwxr-xr-x    15k root 24 mars  17:23 m2300w-wrapper
+.rwxr-xr-x    30k root 24 mars  17:23 m2400w
+.rwxr-xr-x    14k root  7 févr.  2021 macptopbm
+.rwxr-xr-x   256k root 15 févr. 16:32 make
+.rwxr-xr-x   4,9k root 15 févr. 16:32 make-first-existing-target
+.rwxr-xr-x    52k root  4 nov.   2021 makeconv
+.rwxr-xr-x   121k root 17 mars  20:03 man
+.rwxr-xr-x    37k root 17 mars  20:03 man-recode
+.rwxr-xr-x   143k root 17 mars  20:03 mandb
+.rwxr-xr-x    32k root 17 mars  20:03 manpath
+.rwxr-xr-x    31k root 24 mars  13:06 mapscrn
+.rwxr-xr-x   159k root 23 janv. 22:57 mawk
+.rwxr-xr-x    27k root 21 févr. 02:49 mcookie
+.rwxr-xr-x    43k root  7 févr. 17:03 md5sum
+lrwxrwxrwx      6 root  7 févr. 17:03 md5sum.textutils -> md5sum
+.rwxr-xr-x    14k root  7 févr.  2021 mdatopbm
+.rwxr-xr-x    52k root 17 mai   13:38 mdig
+.rwxr-xr-x   7,5k root  7 juil. 01:23 memusage
+.rwxr-xr-x    23k root  7 juil. 01:23 memusagestat
+.rwxr-xr-x   5,8k root  1 juin  23:52 mesa-overlay-control.py
+.rwxr-xr-x    15k root 21 févr. 02:49 mesg
+.rwxr-xr-x    14k root  7 févr.  2021 mgrtopbm
+.rwxr-xr-x   3,1k root 18 déc.   2021 migrate-pubring-from-classic-gpg
+.rwxr-xr-x   9,6k root 10 janv. 21:19 mimeopen
+.rwxr-xr-x    13k root 10 janv. 21:19 mimetype
+.rwxr-xr-x    28k root 24 mars  17:23 min12xxw
+.rwxr-xr-x   211k root 15 juin   2021 minicom
+.rwxr-xr-x    16k root 24 mars  13:06 mk_modmap
+.rwxr-xr-x    68k root  7 févr. 17:03 mkdir
+.rwxr-xr-x    39k root  7 févr. 17:03 mkfifo
+.rwxr-xr-x     65 root 25 mars  10:54 mkfontdir
+.rwxr-xr-x    44k root 25 mars  10:54 mkfontscale
+.rwxr-xr-x    44k root  7 févr. 17:03 mknod
+.rwxr-xr-x    39k root  7 févr. 17:03 mktemp
+.rwxr-xr-x   259k root 16 févr. 17:00 mmcli
+lrwxrwxrwx     25 root 12 oct.  15:04 mogrify -> /etc/alternatives/mogrify
+lrwxrwxrwx     29 root 12 oct.  15:04 mogrify-im6 -> /etc/alternatives/mogrify-im6
+.rwxr-xr-x    14k root  6 févr. 13:53 mogrify-im6.q16
+.rwxr-xr-x    19k root 18 mars  05:02 monitor-sensor
+lrwxrwxrwx     25 root 12 oct.  15:04 montage -> /etc/alternatives/montage
+lrwxrwxrwx     29 root 12 oct.  15:04 montage-im6 -> /etc/alternatives/montage-im6
+.rwxr-xr-x    14k root  6 févr. 13:53 montage-im6.q16
+.rwxr-xr-x    43k root 21 févr. 02:49 more
+.rwsr-xr-x    47k root 21 févr. 02:49 mount
+.rwxr-xr-x    19k root 21 févr. 02:49 mountpoint
+.rwxr-xr-x    15k root 24 mars  17:23 mscompress
+.rwxr-xr-x    15k root 24 mars  17:23 msexpand
+lrwxrwxrwx     20 root 22 sept. 16:37 mt -> /etc/alternatives/mt
+.rwxr-xr-x    68k root 22 août   2021 mt-gnu
+.rwxr-xr-x    74k root 11 janv. 13:46 mtr
+.rwxr-xr-x@   39k root 11 janv. 13:46 mtr-packet
+.rwxr-xr-x   6,6k root  7 juil. 01:23 mtrace
+.rwxr-xr-x    14k root  7 févr.  2021 mtvtoppm
+.rwxr-xr-x   138k root  7 févr. 17:03 mv
+.rwxr-xr-x    23k root 21 févr. 02:49 namei
+.rwxr-xr-x   283k root 19 févr. 09:58 nano
+.rwxr-xr-x   1,7M root 27 mai   21:54 nautilus
+.rwxr-xr-x    19k root 27 mai   21:54 nautilus-autorun-software
+.rwxr-xr-x    23k root 24 mars  13:51 nautilus-sendto
+lrwxrwxrwx     22 root 19 févr. 08:27 nawk -> /etc/alternatives/nawk
+lrwxrwxrwx     20 root 19 févr. 08:28 nc -> /etc/alternatives/nc
+.rwxr-xr-x    40k root 23 févr. 12:09 nc.openbsd
+.rwxr-xr-x   342k root  9 sept.  2021 neofetch
+.rwxr-xr-x    14k root  7 févr.  2021 neotoppm
+.rwxr-xr-x    913 root 23 mars  14:56 neqn
+.rwxr-xr-x    959 root 16 août   2021 netaddr
+lrwxrwxrwx     24 root 19 févr. 08:28 netcat -> /etc/alternatives/netcat
+.rwxr-xr-x   158k root 24 mars  17:20 netstat
+.rwxr-xr-x   105k root 14 sept. 23:54 networkctl
+.rwxr-xr-x    20k root  4 mai   15:29 networkd-dispatcher
+.rwsr-xr-x    28k root 14 mars  09:59 newgidmap
+.rwsr-xr-x    40k root 14 mars  09:59 newgrp
+.rwsr-xr-x    28k root 14 mars  09:59 newuidmap
+.rwxr-xr-x    35k root 25 mars  11:31 ngettext
+.rwxr-xr-x    35k root  7 févr. 17:03 nice
+lrwxrwxrwx      8 root 23 mars  14:57 nisdomainname -> hostname
+.rwxr-xr-x   101k root  7 févr. 17:03 nl
+lrwxrwxrwx     19 root 12 mars  06:55 nm -> x86_64-linux-gnu-nm
+.rwxr-xr-x   274k root  7 mars  16:56 nm-applet
+.rwxr-xr-x   986k root  7 mars  16:56 nm-connection-editor
+.rwxr-xr-x    23k root  9 juin  11:27 nm-online
+.rwxr-xr-x   949k root  9 juin  11:27 nmcli
+.rwxr-xr-x   752k root  9 juin  11:27 nmtui
+lrwxrwxrwx      5 root  9 juin  11:27 nmtui-connect -> nmtui
+lrwxrwxrwx      5 root  9 juin  11:27 nmtui-edit -> nmtui
+lrwxrwxrwx      5 root  9 juin  11:27 nmtui-hostname -> nmtui
+.rwxr-xr-x    35k root  7 févr. 17:03 nohup
+.rwxr-xr-x    35k root  7 févr. 17:03 nproc
+.rwxr-xr-x   3,3k root 23 mars  14:56 nroff
+.rwxr-xr-x    27k root 21 févr. 02:49 nsenter
+.rwxr-xr-x   101k root 17 mai   13:38 nslookup
+.rwxr-xr-x    31k root 24 mars  12:56 nstat
+.rwxr-xr-x    72k root 17 mai   13:38 nsupdate
+.rwxr-xr-x   163k root  6 juin  19:57 ntfs-3g
+.rwxr-xr-x    15k root  6 juin  19:57 ntfs-3g.probe
+.rwxr-xr-x    27k root  6 juin  19:57 ntfscat
+.rwxr-xr-x    39k root  6 juin  19:57 ntfscluster
+.rwxr-xr-x    31k root  6 juin  19:57 ntfscmp
+.rwxr-xr-x    43k root  6 juin  19:57 ntfsdecrypt
+.rwxr-xr-x    27k root  6 juin  19:57 ntfsfallocate
+.rwxr-xr-x    35k root  6 juin  19:57 ntfsfix
+.rwxr-xr-x    56k root  6 juin  19:57 ntfsinfo
+.rwxr-xr-x    28k root  6 juin  19:57 ntfsls
+.rwxr-xr-x    31k root  6 juin  19:57 ntfsmove
+.rwxr-xr-x   109k root  6 juin  19:57 ntfsrecover
+.rwxr-xr-x    81k root  6 juin  19:57 ntfssecaudit
+.rwxr-xr-x    27k root  6 juin  19:57 ntfstruncate
+.rwxr-xr-x    19k root  6 juin  19:57 ntfsusermap
+.rwxr-xr-x    44k root  6 juin  19:57 ntfswipe
+.rwxr-xr-x    56k root  7 févr. 17:03 numfmt
+.rwxr-xr-x    270 root 11 mai   23:04 nvidia-detector
+.rwxr-xr-x    19k root 23 mars  14:52 oakdecode
+.rwxr-xr-x   105k root 24 mars  07:30 obexctl
+lrwxrwxrwx     24 root 12 mars  06:55 objcopy -> x86_64-linux-gnu-objcopy
+lrwxrwxrwx     24 root 12 mars  06:55 objdump -> x86_64-linux-gnu-objdump
+.rwxr-xr-x    24k root 25 mars  10:53 oclock
+.rwxr-xr-x    68k root  7 févr. 17:03 od
+.rwxr-xr-x   8,8k root 10 mai   15:23 oem-getlogs
+lrwxrwxrwx     17 root 20 juil.  2019 on_ac_power -> /sbin/on_ac_power
+lrwxrwxrwx     22 root 22 sept. 16:41 open -> /etc/alternatives/open
+.rwxr-xr-x   1,0M root  4 juil. 13:20 openssl
+.rwxr-xr-x    23k root 24 mars  13:06 openvt
+.rwxr-xr-x    19k root 23 mars  14:52 opldecode
+.rwxr-xr-x   9,3k root 19 mai   16:24 orca
+.rwxr-xr-x     70 root 25 mars  16:08 orca-dm-wrapper
+.rwxr-xr-x   4,6k root 11 juil.  2021 os-prober
+.rwxr-xr-x    31k root 24 mars  17:22 p11-kit
+.rwxr-xr-x   2,1k root 21 févr. 18:56 pa-info
+.rwxr-xr-x    52k root 24 févr. 22:09 pacat
+.rwxr-xr-x    19k root 24 févr. 22:09 pacmd
+.rwxr-xr-x    97k root 24 févr. 22:09 pactl
+.rwxr-xr-x   2,2k root 24 févr. 22:09 padsp
+lrwxrwxrwx     23 root 19 févr. 08:27 pager -> /etc/alternatives/pager
+.rwxr-xr-x    23k root  7 févr.  2021 palmtopnm
+.rwxr-xr-x    18k root  7 févr.  2021 pamcut
+.rwxr-xr-x    14k root  7 févr.  2021 pamdeinterlace
+.rwxr-xr-x    14k root  7 févr.  2021 pamdice
+.rwxr-xr-x    14k root  7 févr.  2021 pamfile
+.rwxr-xr-x    14k root  7 févr.  2021 pamoil
+lrwxrwxrwx      5 root 24 févr. 22:09 pamon -> pacat
+.rwxr-xr-x    14k root  7 févr.  2021 pamstack
+.rwxr-xr-x    14k root  7 févr.  2021 pamstretch
+.rwxr-xr-x   1,3k root  7 févr.  2021 pamstretch-gen
+.rwxr-xr-x    14k root 24 mars  13:14 paperconf
+lrwxrwxrwx      5 root 24 févr. 22:09 paplay -> pacat
+lrwxrwxrwx      5 root 24 févr. 22:09 parec -> pacat
+lrwxrwxrwx      5 root 24 févr. 22:09 parecord -> pacat
+.rwxr-xr-x    60k root 21 févr. 02:49 partx
+.rwxr-xr-x    26k root 14 févr. 00:40 pass
+.rwsr-xr-x    60k root 14 mars  09:59 passwd
+.rwxr-xr-x    35k root  7 févr. 17:03 paste
+.rwxr-xr-x    23k root 24 févr. 22:09 pasuspender
+.rwxr-xr-x   191k root 24 mars  17:22 patch
+.rwxr-xr-x    35k root  7 févr. 17:03 pathchk
+.rwxr-xr-x    15k root 24 févr. 22:09 pax11publish
+.rwxr-xr-x    14k root  7 févr.  2021 pbmclean
+.rwxr-xr-x    14k root  7 févr.  2021 pbmlife
+.rwxr-xr-x    14k root  7 févr.  2021 pbmmake
+.rwxr-xr-x    14k root  7 févr.  2021 pbmmask
+.rwxr-xr-x    14k root  7 févr.  2021 pbmpage
+.rwxr-xr-x    14k root  7 févr.  2021 pbmpscale
+.rwxr-xr-x    14k root  7 févr.  2021 pbmreduce
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtext
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtextps
+.rwxr-xr-x    14k root  7 févr.  2021 pbmto10x
+.rwxr-xr-x    15k root  7 févr.  2021 pbmtoascii
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtoatk
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtobbnbg
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtocmuwm
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtoepsi
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtoepson
+.rwxr-xr-x    18k root  7 févr.  2021 pbmtog3
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtogem
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtogo
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtoicon
+.rwxr-xr-x    18k root  7 févr.  2021 pbmtolj
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtomacp
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtomda
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtomgr
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtonokia
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtopgm
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtopi3
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtoplot
+.rwxr-xr-x    31k root  7 févr.  2021 pbmtoppa
+.rwxr-xr-x    16k root  7 févr.  2021 pbmtopsg3
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtoptx
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtowbmp
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtox10bm
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtoxbm
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtoybm
+.rwxr-xr-x    14k root  7 févr.  2021 pbmtozinc
+.rwxr-xr-x    23k root  7 févr.  2021 pbmupc
+.rwxr-xr-x   2,3k root 17 mai   09:43 pcre-config
+.rwxr-xr-x   2,0k root 24 mars  17:22 pcre2-config
+.rwxr-xr-x    23k root  7 févr.  2021 pcxtoppm
+lrwxrwxrwx      7 root 25 mars  13:41 pdb3 -> pdb3.10
+lrwxrwxrwx     23 root 16 janv. 18:12 pdb3.9 -> ../lib/python3.9/pdb.py
+lrwxrwxrwx     24 root 29 juin  14:14 pdb3.10 -> ../lib/python3.10/pdb.py
+.rwxr-xr-x    698 root 23 mars  14:54 pdf2dsc
+.rwxr-xr-x    909 root 23 mars  14:54 pdf2ps
+.rwxr-xr-x    19k root  6 sept. 11:32 pdfattach
+.rwxr-xr-x    23k root  6 sept. 11:32 pdfdetach
+.rwxr-xr-x    23k root  6 sept. 11:32 pdffonts
+.rwxr-xr-x    39k root  6 sept. 11:32 pdfimages
+.rwxr-xr-x    60k root  6 sept. 11:32 pdfinfo
+.rwxr-xr-x    23k root  6 sept. 11:32 pdfseparate
+.rwxr-xr-x    36k root  6 sept. 11:32 pdfsig
+.rwxr-xr-x   138k root  6 sept. 11:32 pdftocairo
+.rwxr-xr-x   109k root  6 sept. 11:32 pdftohtml
+.rwxr-xr-x    35k root  6 sept. 11:32 pdftoppm
+.rwxr-xr-x    35k root  6 sept. 11:32 pdftops
+.rwxr-xr-x    44k root  6 sept. 11:32 pdftotext
+.rwxr-xr-x    31k root  6 sept. 11:32 pdfunite
+.rwxr-xr-x    15k root 24 mars  17:29 peekfd
+.rwxr-xr-x   3,8M root  6 févr. 12:02 perl
+.rwxr-xr-x    19k root  6 févr. 12:02 perl5.34-x86_64-linux-gnu
+.rwxr-xr-x   3,8M root  6 févr. 12:02 perl5.34.0
+.rwxr-xr-x    45k root  6 févr. 12:02 perlbug
+.rwxr-xr-x    125 root 25 août   2021 perldoc
+.rwxr-xr-x    11k root  6 févr. 12:02 perlivp
+.rwxr-xr-x    45k root  6 févr. 12:02 perlthanks
+.rwxr-xr-x    498 root 23 mars  14:54 pf2afm
+.rwxr-xr-x    516 root 23 mars  14:54 pfbtopfa
+.rwxr-xr-x    14k root  7 févr.  2021 pgmbentley
+.rwxr-xr-x    18k root  7 févr.  2021 pgmcrater
+.rwxr-xr-x    14k root  7 févr.  2021 pgmedge
+.rwxr-xr-x    14k root  7 févr.  2021 pgmenhance
+.rwxr-xr-x    14k root  7 févr.  2021 pgmhist
+.rwxr-xr-x    14k root  7 févr.  2021 pgmkernel
+.rwxr-xr-x    14k root  7 févr.  2021 pgmnoise
+lrwxrwxrwx      7 root  7 févr.  2021 pgmnorm -> pnmnorm
+lrwxrwxrwx      6 root  7 févr.  2021 pgmoil -> pamoil
+.rwxr-xr-x    14k root  7 févr.  2021 pgmramp
+.rwxr-xr-x    14k root  7 févr.  2021 pgmslice
+.rwxr-xr-x    31k root  7 févr.  2021 pgmtexture
+.rwxr-xr-x    14k root  7 févr.  2021 pgmtofs
+.rwxr-xr-x    14k root  7 févr.  2021 pgmtolispm
+.rwxr-xr-x    21k root  7 févr.  2021 pgmtopbm
+.rwxr-xr-x    14k root  7 févr.  2021 pgmtoppm
+.rwxr-xr-x    31k root 25 févr. 12:57 pgrep
+.rwxr-xr-x    14k root  7 févr.  2021 pi1toppm
+.rwxr-xr-x    14k root  7 févr.  2021 pi3topbm
+.rwxr-xr-x   205k root 23 mars  14:56 pic
+lrwxrwxrwx     22 root 22 sept. 16:43 pico -> /etc/alternatives/pico
+.rwxr-xr-x   8,4k root  6 févr. 12:02 piconv
+lrwxrwxrwx     14 root 14 déc.   2021 pidof -> /sbin/killall5
+.rwxr-xr-x    31k root 25 févr. 12:57 pidwait
+.rwxr-xr-x   138k root  6 févr.  2021 pigz
+lrwxrwxrwx     26 root 22 sept. 16:03 pinentry -> /etc/alternatives/pinentry
+.rwxr-xr-x    60k root 24 mars  17:31 pinentry-curses
+.rwxr-xr-x    76k root 24 mars  17:31 pinentry-gnome3
+lrwxrwxrwx     30 root 22 sept. 16:45 pinentry-x11 -> /etc/alternatives/pinentry-x11
+.rwxr-xr-x@   77k root  5 févr. 05:37 ping
+lrwxrwxrwx@     4 root  5 févr. 05:37 ping4 -> ping
+lrwxrwxrwx@     4 root  5 févr. 05:37 ping6 -> ping
+.rwxr-xr-x    35k root  7 févr. 17:03 pinky
+.rwxr-xr-x    15k root 15 sept. 18:48 pipewire
+.rwxr-xr-x    15k root 15 sept. 18:48 pipewire-avb
+lrwxrwxrwx      8 root 15 sept. 18:48 pipewire-pulse -> pipewire
+.rwxr-xr-x    18k root  7 févr.  2021 pjtoppm
+.rwxr-xr-x    19k root 26 févr. 12:11 pkaction
+.rwxr-xr-x    23k root 26 févr. 12:11 pkcheck
+.rwsr-xr-x    31k root 26 févr. 12:11 pkexec
+.rwxr-xr-x    51k root 24 mars  17:22 pkg-config
+.rwxr-xr-x    45k root  4 nov.   2021 pkgdata
+lrwxrwxrwx      5 root 25 févr. 12:57 pkill -> pgrep
+.rwxr-xr-x    19k root 26 févr. 12:11 pkttyagent
+.rwxr-xr-x   4,5k root  6 févr. 12:02 pl2pm
+.rwxr-xr-x    23k root  7 juil. 01:23 pldd
+.rwxr-xr-x    146 root 23 févr. 16:12 plog
+.rwxr-xr-x    47k root 12 avril 20:01 plymouth
+.rwxr-xr-x    35k root 25 févr. 12:57 pmap
+.rwxr-xr-x    27k root  7 févr.  2021 pngtopnm
+.rwxr-xr-x   1,6M root 24 mars  17:22 pnm2ppa
+.rwxr-xr-x    18k root  7 févr.  2021 pnmalias
+.rwxr-xr-x    14k root  7 févr.  2021 pnmarith
+.rwxr-xr-x    14k root  7 févr.  2021 pnmcat
+.rwxr-xr-x    18k root  7 févr.  2021 pnmcolormap
+.rwxr-xr-x    14k root  7 févr.  2021 pnmcomp
+.rwxr-xr-x    43k root  7 févr.  2021 pnmconvol
+.rwxr-xr-x    14k root  7 févr.  2021 pnmcrop
+.rwxr-xr-x    14k root  7 févr.  2021 pnmcut
+.rwxr-xr-x    14k root  7 févr.  2021 pnmdepth
+.rwxr-xr-x    14k root  7 févr.  2021 pnmenlarge
+.rwxr-xr-x    14k root  7 févr.  2021 pnmfile
+.rwxr-xr-x    14k root  7 févr.  2021 pnmflip
+.rwxr-xr-x    18k root  7 févr.  2021 pnmgamma
+.rwxr-xr-x    18k root  7 févr.  2021 pnmhisteq
+.rwxr-xr-x    14k root  7 févr.  2021 pnmhistmap
+.rwxr-xr-x   4,6k root  7 févr.  2021 pnmindex
+lrwxrwxrwx     10 root  7 févr.  2021 pnminterp -> pamstretch
+lrwxrwxrwx     14 root  7 févr.  2021 pnminterp-gen -> pamstretch-gen
+.rwxr-xr-x    14k root  7 févr.  2021 pnminvert
+.rwxr-xr-x   1,8k root  7 févr.  2021 pnmmargin
+.rwxr-xr-x    18k root  7 févr.  2021 pnmmontage
+.rwxr-xr-x    23k root  7 févr.  2021 pnmnlfilt
+lrwxrwxrwx     13 root  7 févr.  2021 pnmnoraw -> pnmtoplainpnm
+.rwxr-xr-x    14k root  7 févr.  2021 pnmnorm
+.rwxr-xr-x    14k root  7 févr.  2021 pnmpad
+.rwxr-xr-x    14k root  7 févr.  2021 pnmpaste
+.rwxr-xr-x    14k root  7 févr.  2021 pnmpsnr
+.rwxr-xr-x   3,2k root  7 févr.  2021 pnmquant
+.rwxr-xr-x    18k root  7 févr.  2021 pnmremap
+.rwxr-xr-x    18k root  7 févr.  2021 pnmrotate
+.rwxr-xr-x    23k root  7 févr.  2021 pnmscale
+.rwxr-xr-x    18k root  7 févr.  2021 pnmscalefixed
+.rwxr-xr-x    14k root  7 févr.  2021 pnmshear
+.rwxr-xr-x    14k root  7 févr.  2021 pnmsmooth
+.rwxr-xr-x    14k root  7 févr.  2021 pnmsplit
+.rwxr-xr-x    14k root  7 févr.  2021 pnmtile
+.rwxr-xr-x    18k root  7 févr.  2021 pnmtoddif
+.rwxr-xr-x   213k root  7 févr.  2021 pnmtofiasco
+.rwxr-xr-x    14k root  7 févr.  2021 pnmtofits
+.rwxr-xr-x    23k root  7 févr.  2021 pnmtojpeg
+.rwxr-xr-x    23k root  7 févr.  2021 pnmtopalm
+.rwxr-xr-x    14k root  7 févr.  2021 pnmtoplainpnm
+.rwxr-xr-x    39k root  7 févr.  2021 pnmtopng
+.rwxr-xr-x    18k root  7 févr.  2021 pnmtops
+.rwxr-xr-x    14k root  7 févr.  2021 pnmtorast
+.rwxr-xr-x    43k root  7 févr.  2021 pnmtorle
+.rwxr-xr-x    18k root  7 févr.  2021 pnmtosgi
+.rwxr-xr-x    14k root  7 févr.  2021 pnmtosir
+.rwxr-xr-x    18k root  7 févr.  2021 pnmtotiff
+.rwxr-xr-x    23k root  7 févr.  2021 pnmtotiffcmyk
+.rwxr-xr-x    14k root  7 févr.  2021 pnmtoxwd
+.rwxr-xr-x   4,1k root  6 févr. 12:02 pod2html
+.rwxr-xr-x    15k root  6 févr. 12:02 pod2man
+.rwxr-xr-x    11k root  6 févr. 12:02 pod2text
+.rwxr-xr-x   4,1k root  6 févr. 12:02 pod2usage
+.rwxr-xr-x   3,7k root  6 févr. 12:02 podchecker
+.rwxr-xr-x   2,8k root 23 févr. 16:12 poff
+.rwxr-xr-x   1,4k root 23 févr. 16:12 pon
+.rwxr-xr-x   5,8k root 14 sept. 23:55 pop-app-folders
+.rwxr-xr-x    476 root 14 sept. 23:55 pop-cosmic-favorites
+.rwxr-xr-x    636 root 14 sept. 23:55 pop-flatpak-repos
+.rwxr-xr-x   7,2M root  6 sept. 20:16 pop-launcher
+.rwxr-xr-x   445k root  1 oct.   2021 pop-shell-shortcuts
+.rwxr-xr-x   3,2M root  8 août  17:00 pop-support
+.rwxr-xr-x   8,2M root 14 sept. 21:21 pop-system-updater
+.rwxr-xr-x   2,0k root 22 janv. 02:19 pop-transition
+.rwxr-xr-x   7,6M root 15 août  20:33 pop-upgrade
+.rwxr-xr-x   3,5M root 22 juin  22:43 popsicle
+.rwxr-xr-x   3,3M root 22 juin  22:43 popsicle-gtk
+lrwxrwxrwx     11 root 28 janv. 19:57 POST -> lwp-request
+.rwxr-xr-x   101k root 27 mai   13:53 ppdc
+.rwxr-xr-x    76k root 27 mai   13:53 ppdhtml
+.rwxr-xr-x    93k root 27 mai   13:53 ppdi
+.rwxr-xr-x    19k root 27 mai   13:53 ppdmerge
+.rwxr-xr-x    80k root 27 mai   13:53 ppdpo
+.rwxr-xr-x    404 root 23 mars  14:54 pphs
+.rwxr-xr-x    18k root  7 févr.  2021 ppm3d
+.rwxr-xr-x    14k root  7 févr.  2021 ppmbrighten
+.rwxr-xr-x    14k root  7 févr.  2021 ppmchange
+.rwxr-xr-x    27k root  7 févr.  2021 ppmcie
+.rwxr-xr-x    14k root  7 févr.  2021 ppmcolormask
+.rwxr-xr-x    14k root  7 févr.  2021 ppmcolors
+.rwxr-xr-x    14k root  7 févr.  2021 ppmdim
+.rwxr-xr-x    14k root  7 févr.  2021 ppmdist
+.rwxr-xr-x    14k root  7 févr.  2021 ppmdither
+.rwxr-xr-x    12k root  7 févr.  2021 ppmfade
+.rwxr-xr-x    14k root  7 févr.  2021 ppmflash
+.rwxr-xr-x    23k root  7 févr.  2021 ppmforge
+.rwxr-xr-x    14k root  7 févr.  2021 ppmhist
+.rwxr-xr-x    14k root  7 févr.  2021 ppmlabel
+.rwxr-xr-x    14k root  7 févr.  2021 ppmmake
+.rwxr-xr-x    14k root  7 févr.  2021 ppmmix
+lrwxrwxrwx      7 root  7 févr.  2021 ppmnorm -> pnmnorm
+.rwxr-xr-x    18k root  7 févr.  2021 ppmntsc
+.rwxr-xr-x    27k root  7 févr.  2021 ppmpat
+.rwxr-xr-x    18k root  7 févr.  2021 ppmquant
+.rwxr-xr-x   2,1k root  7 févr.  2021 ppmquantall
+.rwxr-xr-x    18k root  7 févr.  2021 ppmqvga
+.rwxr-xr-x   1,7k root  7 févr.  2021 ppmrainbow
+.rwxr-xr-x    14k root  7 févr.  2021 ppmrelief
+.rwxr-xr-x   6,8k root  7 févr.  2021 ppmshadow
+.rwxr-xr-x    14k root  7 févr.  2021 ppmshift
+.rwxr-xr-x    14k root  7 févr.  2021 ppmspread
+.rwxr-xr-x    19k root  7 févr.  2021 ppmtoacad
+.rwxr-xr-x    19k root  7 févr.  2021 ppmtobmp
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtoeyuv
+.rwxr-xr-x    23k root  7 févr.  2021 ppmtogif
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtoicr
+.rwxr-xr-x    47k root  7 févr.  2021 ppmtoilbm
+lrwxrwxrwx      9 root  7 févr.  2021 ppmtojpeg -> pnmtojpeg
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtoleaf
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtolj
+.rwxr-xr-x     81 root  7 févr.  2021 ppmtomap
+.rwxr-xr-x    23k root  7 févr.  2021 ppmtomitsu
+.rwxr-xr-x   555k root  7 févr.  2021 ppmtompeg
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtoneo
+.rwxr-xr-x    18k root  7 févr.  2021 ppmtopcx
+.rwxr-xr-x    18k root  7 févr.  2021 ppmtopgm
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtopi1
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtopict
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtopj
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtopuzz
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtorgb3
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtosixel
+.rwxr-xr-x    18k root  7 févr.  2021 ppmtotga
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtouil
+.rwxr-xr-x    18k root  7 févr.  2021 ppmtowinicon
+.rwxr-xr-x    18k root  7 févr.  2021 ppmtoxpm
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtoyuv
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtoyuvsplit
+.rwxr-xr-x    14k root  7 févr.  2021 ppmtv
+.rwxr-xr-x    68k root  7 févr. 17:03 pr
+.rwxr-xr-x   5,7k root 23 mars  10:41 precat
+.rwxr-xr-x    56k root 23 mars  14:56 preconv
+.rwxr-xr-x   5,7k root 23 mars  10:41 preunzip
+.rwxr-xr-x   5,7k root 23 mars  10:41 prezip
+.rwxr-xr-x    15k root 23 mars  10:41 prezip-bin
+.rwxr-xr-x    395 root 23 mars  14:54 printafm
+.rwxr-xr-x    31k root  7 févr. 17:03 printenv
+.rwxr-xr-x   5,6k root 23 mars  14:52 printer-profile
+.rwxr-xr-x    52k root  7 févr. 17:03 printf
+.rwxr-xr-x    28k root 21 févr. 02:49 prlimit
+.rwxr-xr-x    14k root  6 févr. 12:02 prove
+.rwxr-xr-x    23k root 24 mars  17:29 prtstat
+.rwxr-xr-x   142k root 25 févr. 12:57 ps
+.rwxr-xr-x    631 root 23 mars  14:54 ps2ascii
+.rwxr-xr-x   1,3k root 23 mars  14:54 ps2epsi
+.rwxr-xr-x    472 root 19 oct.   2021 ps2lexmark
+.rwxr-xr-x    272 root 23 mars  14:54 ps2pdf
+.rwxr-xr-x    215 root 23 mars  14:54 ps2pdf12
+.rwxr-xr-x    215 root 23 mars  14:54 ps2pdf13
+.rwxr-xr-x    215 root 23 mars  14:54 ps2pdf14
+.rwxr-xr-x   1,1k root 23 mars  14:54 ps2pdfwr
+.rwxr-xr-x    647 root 23 mars  14:54 ps2ps
+.rwxr-xr-x    669 root 23 mars  14:54 ps2ps2
+lrwxrwxrwx      8 root 23 mars  14:54 ps2txt -> ps2ascii
+lrwxrwxrwx      9 root 24 mars  13:06 psfaddtable -> psfxtable
+lrwxrwxrwx      9 root 24 mars  13:06 psfgettable -> psfxtable
+lrwxrwxrwx      9 root 24 mars  13:06 psfstriptable -> psfxtable
+.rwxr-xr-x    27k root 24 mars  13:06 psfxtable
+.rwxr-xr-x    15k root 24 mars  13:09 psicc
+.rwxr-xr-x    14k root  7 févr.  2021 psidtopgm
+.rwxr-xr-x    15k root 24 mars  17:29 pslog
+.rwxr-xr-x    18k root  7 févr.  2021 pstopnm
+.rwxr-xr-x    36k root 24 mars  17:29 pstree
+lrwxrwxrwx      6 root 24 mars  17:29 pstree.x11 -> pstree
+.rwxr-xr-x   3,6k root  6 févr. 12:02 ptar
+.rwxr-xr-x   2,6k root  6 févr. 12:02 ptardiff
+.rwxr-xr-x   4,4k root  6 févr. 12:02 ptargrep
+.rwxr-xr-x   130k root  7 févr. 17:03 ptx
+.rwxr-xr-x   134k root 15 sept. 18:48 pw-cat
+.rwxr-xr-x   121k root 15 sept. 18:48 pw-cli
+.rwxr-xr-x    39k root 15 sept. 18:48 pw-dot
+lrwxrwxrwx      6 root 15 sept. 18:48 pw-dsdplay -> pw-cat
+.rwxr-xr-x    97k root 15 sept. 18:48 pw-dump
+.rwxr-xr-x   2,3k root 15 sept. 18:48 pw-jack
+.rwxr-xr-x    31k root 15 sept. 18:48 pw-link
+.rwxr-xr-x    19k root 15 sept. 18:48 pw-loopback
+.rwxr-xr-x    15k root 15 sept. 18:48 pw-metadata
+.rwxr-xr-x    35k root 15 sept. 18:48 pw-mididump
+lrwxrwxrwx      6 root 15 sept. 18:48 pw-midiplay -> pw-cat
+lrwxrwxrwx      6 root 15 sept. 18:48 pw-midirecord -> pw-cat
+.rwxr-xr-x    93k root 15 sept. 18:48 pw-mon
+lrwxrwxrwx      6 root 15 sept. 18:48 pw-play -> pw-cat
+.rwxr-xr-x    27k root 15 sept. 18:48 pw-profiler
+lrwxrwxrwx      6 root 15 sept. 18:48 pw-record -> pw-cat
+.rwxr-xr-x    27k root 15 sept. 18:48 pw-reserve
+.rwxr-xr-x    84k root 15 sept. 18:48 pw-top
+.rwxr-xr-x    35k root  7 févr. 17:03 pwd
+.rwxr-xr-x    15k root 25 févr. 12:57 pwdx
+.rwxr-xr-x   7,8k root 25 mars  13:41 py3clean
+.rwxr-xr-x    13k root 25 mars  13:41 py3compile
+lrwxrwxrwx     31 root 25 mars  13:41 py3versions -> ../share/python3/py3versions.py
+lrwxrwxrwx      9 root 25 mars  13:41 pydoc3 -> pydoc3.10
+.rwxr-xr-x     78 root 16 janv. 18:12 pydoc3.9
+.rwxr-xr-x     79 root 29 juin  14:14 pydoc3.10
+lrwxrwxrwx     13 root 25 mars  13:41 pygettext3 -> pygettext3.10
+.rwxr-xr-x    22k root 13 janv. 22:21 pygettext3.9
+.rwxr-xr-x    24k root 23 mars  21:12 pygettext3.10
+lrwxrwxrwx     10 root 25 mars  13:41 python3 -> python3.10
+.rwxr-xr-x   5,4M root 16 janv. 18:12 python3.9
+.rwxr-xr-x   5,9M root 29 juin  14:14 python3.10
+.rwxr-xr-x   719k root 24 mars  17:15 pzstd
+.rwxr-xr-x   613k root  9 févr. 05:52 qalc
+.rwxr-xr-x   2,3M root  7 juil. 04:52 qemu-img
+.rwxr-xr-x   2,3M root  7 juil. 04:52 qemu-io
+.rwxr-xr-x   2,5M root  7 juil. 04:52 qemu-nbd
+.rwxr-xr-x   1,0M root  7 juil. 04:52 qemu-pr-helper
+.rwxr-xr-x   3,3M root  7 juil. 04:52 qemu-storage-daemon
+.rwxr-xr-x    16M root  7 juil. 04:52 qemu-system-i386
+.rwxr-xr-x    16M root  7 juil. 04:52 qemu-system-x86_64
+.rwxr-xr-x   6,9M root  7 juil. 04:52 qemu-system-x86_64-microvm
+.rwxr-xr-x    187 root  7 juil. 04:52 qemu-system-x86_64-spice
+.rwxr-xr-x    23k root 23 mars  14:52 qpdldecode
+.rwxr-xr-x    39k root 22 déc.   2020 qrencode
+.rwxr-xr-x    14k root  7 févr.  2021 qrttoppm
+.rwxr-xr-x   2,5k root 11 mai   23:04 quirks-handler
+lrwxrwxrwx     23 root 12 mars  06:55 ranlib -> x86_64-linux-gnu-ranlib
+.rwxr-xr-x    18k root  7 févr.  2021 rasttopnm
+.rwxr-xr-x    14k root  7 févr.  2021 rawtopgm
+.rwxr-xr-x    14k root  7 févr.  2021 rawtoppm
+.rwxr-xr-x    70k root  1 mai    2018 rb
+lrwxrwxrwx      4 root  6 janv. 17:23 rbash -> bash
+lrwxrwxrwx     21 root 22 sept. 16:44 rcp -> /etc/alternatives/rcp
+.rwxr-xr-x    39k root 24 mars  07:30 rctest
+.rwxr-xr-x   101k root 24 mars  12:56 rdma
+lrwxrwxrwx     24 root 12 mars  06:55 readelf -> x86_64-linux-gnu-readelf
+.rwxr-xr-x    39k root  7 févr. 17:03 readlink
+.rwxr-xr-x    39k root  7 févr. 17:03 realpath
+.rwxr-xr-x     89 root 13 févr. 12:08 red
+.rwxr-xr-x    61k root 25 mars  10:53 rendercheck
+.rwxr-xr-x    15k root 21 févr. 02:49 renice
+.rwxr-xr-x   1,8k root 19 juil. 02:06 repoman
+lrwxrwxrwx      4 root 17 janv. 18:02 reset -> tset
+.rwxr-xr-x    27k root 24 mars  13:06 resizecons
+.rwxr-xr-x    23k root 21 févr. 02:49 resizepart
+.rwxr-xr-x   134k root 14 sept. 23:54 resolvectl
+.rwxr-xr-x    15k root 21 févr. 02:49 rev
+.rwxr-xr-x    31k root 24 mars  07:30 rfcomm
+.rwxr-xr-x    14k root  7 févr.  2021 rgb3toppm
+.rwxr-xr-x     30 root 29 janv.  2020 rgrep
+.rwxr-xr-x    43k root  7 févr.  2021 rletopnm
+lrwxrwxrwx     24 root 22 sept. 16:44 rlogin -> /etc/alternatives/rlogin
+.rwxr-xr-x    60k root  7 févr. 17:03 rm
+.rwxr-xr-x    43k root  7 févr. 17:03 rmdir
+lrwxrwxrwx      4 root 19 févr. 09:58 rnano -> nano
+.rwxr-xr-x    12M root  9 sept. 01:09 rootlesskit
+.rwxr-xr-x   7,4M root  9 sept. 01:09 rootlesskit-docker-proxy
+.rwxr-xr-x    208 root 24 mars  12:56 routef
+.rwxr-xr-x   1,7k root 24 mars  12:56 routel
+.rwxr-xr-x    97k root 25 mars  10:57 rpcgen
+lrwxrwxrwx     29 root 25 mars  10:51 rrsync -> ../share/rsync/scripts/rrsync
+lrwxrwxrwx     21 root 22 sept. 16:44 rsh -> /etc/alternatives/rsh
+.rwxr-xr-x   2,6k root 25 mars  10:53 rstart
+.rwxr-xr-x   1,5k root 25 mars  10:53 rstartd
+.rwxr-xr-x   497k root 25 mars  10:51 rsync
+.rwxr-xr-x   4,9k root 25 mars  10:51 rsync-ssl
+lrwxrwxrwx      6 root 24 mars  12:56 rtstat -> lnstat
+.rwxr-xr-x    27k root 23 mars  14:49 run-parts
+.rwxr-xr-x     57 root 23 mars  10:41 run-with-aspell
+.rwxr-xr-x    11M root 26 août  00:38 runc
+.rwxr-xr-x    35k root  7 févr. 17:03 runcon
+.rwxr-xr-x    31k root 15 juin   2021 runscript
+lrwxrwxrwx     23 root 19 févr. 08:28 rview -> /etc/alternatives/rview
+lrwxrwxrwx     22 root 12 oct.  12:28 rvim -> /etc/alternatives/rvim
+.rwxr-xr-x    70k root  1 mai    2018 rx
+.rwxr-xr-x    52k root  1 févr. 02:56 rygel
+.rwxr-xr-x    70k root  1 mai    2018 rz
+lrwxrwxrwx      3 root 12 févr. 23:00 rzsh -> zsh
+.rwxr-xr-x    93k root 27 mars  18:31 sane-find-scanner
+.rwxr-xr-x    23k root 11 sept.  2021 sassc
+.rwxr-xr-x    10k root 23 mars  14:49 savelog
+.rwxr-xr-x    78k root  1 mai    2018 sb
+.rwxr-xr-x    27k root  5 nov.   2021 sbattach
+.rwxr-xr-x    14k root  7 févr.  2021 sbigtopgm
+.rwxr-xr-x    36k root  5 nov.   2021 sbkeysync
+.rwxr-xr-x    15k root  5 nov.   2021 sbsiglist
+.rwxr-xr-x    36k root  5 nov.   2021 sbsign
+.rwxr-xr-x    23k root  5 nov.   2021 sbvarsign
+.rwxr-xr-x    35k root  5 nov.   2021 sbverify
+.rwxr-xr-x    65k root 27 mars  18:31 scanimage
+.rwxr-xr-x   134k root 26 févr. 00:30 scp
+.rwxr-xr-x     90 root 21 févr. 15:01 scp-dbus-service
+.rwxr-xr-x   482k root  2 févr. 04:38 screen
+.rwxr-xr-x    14k root 24 mars  13:06 screendump
+.rwxr-xr-x    52k root 21 févr. 02:49 script
+.rwxr-xr-x    43k root 21 févr. 02:49 scriptlive
+.rwxr-xr-x    35k root 21 févr. 02:49 scriptreplay
+.rwxr-xr-x    48k root 23 mars  14:50 sdiff
+.rwxr-xr-x   133k root 24 mars  07:30 sdptool
+.rwxr-xr-x   1,2M root 16 févr. 21:06 seahorse
+.rwxr-xr-x   113k root 25 mars  10:51 sed
+.rwxr-xr-x    474 root  2 déc.   2021 select-default-iwrap
+.rwxr-xr-x   2,5k root 29 août   2021 select-editor
+.rwxr-xr-x   1,3k root 29 août   2021 sensible-browser
+.rwxr-xr-x   1,3k root 29 août   2021 sensible-editor
+.rwxr-xr-x    565 root 29 août   2021 sensible-pager
+.rwxr-xr-x    48k root  7 févr. 17:03 seq
+.rwxr-xr-x   1,1k root  4 mars  01:03 session-installer
+.rwxr-xr-x    23k root 17 mars  15:19 session-migration
+.rwxr-xr-x    15k root 25 mars  10:53 sessreg
+.rwxr-xr-x    27k root 21 févr. 02:49 setarch
+.rwxr-xr-x    44k root 29 août   2021 setfacl
+.rwxr-xr-x    52k root 24 mars  13:06 setfont
+.rwxr-xr-x    15k root 24 mars  13:06 setkeycodes
+.rwxr-xr-x    19k root 24 mars  13:06 setleds
+.rwxr-xr-x    15k root 24 mars  13:06 setlogcons
+.rwxr-xr-x    15k root 24 mars  13:06 setmetamode
+.rwxr-xr-x    31k root 30 août   2021 setpci
+.rwxr-xr-x    39k root 21 févr. 02:49 setpriv
+.rwxr-xr-x    15k root 21 févr. 02:49 setsid
+.rwxr-xr-x    35k root 21 févr. 02:49 setterm
+.rwxr-xr-x    39k root 22 nov.   2021 setupcon
+.rwxr-xr-x    27k root 25 mars  10:53 setxkbmap
+.rwxr-xr-x   146k root 26 févr. 00:30 sftp
+lrwxrwxrwx      6 root 14 mars  09:59 sg -> newgrp
+.rwxr-xr-x    18k root  7 févr.  2021 sgitopnm
+lrwxrwxrwx      4 root 23 mars  14:49 sh -> dash
+.rwxr-xr-x    43k root  7 févr. 17:03 sha1sum
+.rwxr-xr-x    52k root  7 févr. 17:03 sha224sum
+.rwxr-xr-x    52k root  7 févr. 17:03 sha256sum
+.rwxr-xr-x    56k root  7 févr. 17:03 sha384sum
+.rwxr-xr-x    56k root  7 févr. 17:03 sha512sum
+.rwxr-xr-x  10,0k root  6 févr. 12:02 shasum
+.rwxr-xr-x    19k root 24 mars  13:06 showconsolefont
+.rwxr-xr-x    19k root 24 mars  13:06 showkey
+.rwxr-xr-x    15k root 25 mars  10:53 showrgb
+.rwxr-xr-x    52k root  7 févr. 17:03 shred
+.rwxr-xr-x    48k root  7 févr. 17:03 shuf
+.rwxr-xr-x   400k root 19 mars  18:36 simple-scan
+.rwxr-xr-x    14k root  7 févr.  2021 sirtopnm
+.rwxr-xr-x    15k root 14 janv. 00:18 sixel2png
+lrwxrwxrwx     21 root 12 mars  06:55 size -> x86_64-linux-gnu-size
+.rwxr-xr-x    31k root 25 févr. 12:57 skill
+.rwxr-xr-x    23k root 25 févr. 12:57 slabtop
+.rwxr-xr-x    19k root  7 févr.  2021 sldtoppm
+.rwxr-xr-x    35k root  7 févr. 17:03 sleep
+.rwxr-xr-x    52k root 24 mars   2021 slirp4netns
+lrwxrwxrwx      3 root 26 févr. 00:30 slogin -> ssh
+.rwxr-xr-x    19k root 23 mars  14:52 slxdecode
+.rwxr-xr-x    27k root 25 mars  10:53 smproxy
+lrwxrwxrwx      5 root 25 févr. 12:57 snice -> skill
+.rwxr-xr-x    31k root 23 mars  14:56 soelim
+lrwxrwxrwx     34 root  5 sept. 16:18 soffice -> ../lib/libreoffice/program/soffice
+.rwxr-xr-x   101k root  7 févr. 17:03 sort
+.rwxr-xr-x    35k root 23 mars  14:49 sort-dctrl
+.rwxr-xr-x   4,3k root  7 juil. 01:23 sotruss
+.rwxr-xr-x   279k root 15 sept. 18:48 spa-acp-tool
+.rwxr-xr-x    80k root 15 sept. 18:48 spa-inspect
+.rwxr-xr-x    19k root 15 sept. 18:48 spa-json-dump
+.rwxr-xr-x    15k root 15 sept. 18:48 spa-monitor
+.rwxr-xr-x    36k root 15 sept. 18:48 spa-resample
+.rwxr-xr-x    14k root  7 févr.  2021 spctoppm
+.rwxr-xr-x   1,0k root 21 juil. 17:15 spd-conf
+.rwxr-xr-x    32k root 21 juil. 17:15 spd-say
+.rwxr-xr-x    15k root 21 juil. 17:15 spdsend
+.rwxr-xr-x    31k root 29 juil. 06:35 speaker-test
+.rwxr-xr-x   211k root 21 juil. 17:15 speech-dispatcher
+.rwxr-xr-x    19k root  6 févr. 12:02 splain
+.rwxr-xr-x    52k root  7 févr. 17:03 split
+.rwxr-xr-x    14k root 24 mars  13:06 splitfont
+.rwxr-xr-x    35k root  7 juil. 01:23 sprof
+.rwxr-xr-x    14k root  7 févr.  2021 sputoppm
+.rwxr-xr-x   128k root 24 mars  12:56 ss
+.rwxr-xr-x   847k root 26 févr. 00:30 ssh
+.rwxr-xr-x   170k root 26 févr. 00:30 ssh-add
+.rwxr-sr-x   293k root 26 févr. 00:30 ssh-agent
+.rwxr-xr-x   1,5k root 26 févr. 00:30 ssh-argv0
+.rwxr-xr-x    13k root 23 févr. 12:31 ssh-copy-id
+.rwxr-xr-x   449k root 26 févr. 00:30 ssh-keygen
+.rwxr-xr-x   195k root 26 févr. 00:30 ssh-keyscan
+.rwxr-xr-x    14k root  7 févr.  2021 st4topgm
+.rwxr-xr-x   5,5k root 25 mars  11:00 startx
+.rwxr-xr-x    80k root  7 févr. 17:03 stat
+lrwxrwxrwx      7 root  4 févr. 23:10 static-sh -> busybox
+.rwxr-xr-x    44k root  7 févr. 17:03 stdbuf
+.rwxr-xr-x   2,0M root 16 févr. 10:37 strace
+.rwxr-xr-x   1,8k root 16 févr.  2021 strace-log-merge
+lrwxrwxrwx     24 root 12 oct.  15:04 stream -> /etc/alternatives/stream
+lrwxrwxrwx     28 root 12 oct.  15:04 stream-im6 -> /etc/alternatives/stream-im6
+.rwxr-xr-x    14k root  6 févr. 13:53 stream-im6.q16
+.rwxr-xr-x   7,9k root  6 févr. 12:02 streamzip
+lrwxrwxrwx     24 root 12 mars  06:55 strings -> x86_64-linux-gnu-strings
+lrwxrwxrwx     22 root 12 mars  06:55 strip -> x86_64-linux-gnu-strip
+.rwxr-xr-x    76k root  7 févr. 17:03 stty
+.rwsr-xr-x    56k root 21 févr. 02:49 su
+.rwxr-xr-x   3,1k root 22 mars   2020 su-to-root
+.rwsr-xr-x   232k root 14 févr. 12:48 sudo
+lrwxrwxrwx      4 root 14 févr. 12:48 sudoedit -> sudo
+.rwxr-xr-x    90k root 14 févr. 12:48 sudoreplay
+.rwxr-xr-x    35k root  7 févr. 17:03 sum
+.rwxr-xr-x   4,6k root 25 mars  10:52 switcherooctl
+.rwxr-xr-x    78k root  1 mai    2018 sx
+.rwxr-xr-x    35k root  7 févr. 17:03 sync
+.rwxr-xr-x     95 root 21 févr. 15:01 system-config-printer
+.rwxr-xr-x     80 root 21 févr. 15:01 system-config-printer-applet
+.rwxr-xr-x   2,6M root 26 août  19:40 system76-power
+.rwxr-xr-x   5,9M root 10 juin  20:08 system76-scheduler
+.rwxr-xr-x   1,1M root 14 sept. 23:54 systemctl
+lrwxrwxrwx     20 root 14 sept. 23:54 systemd -> /lib/systemd/systemd
+.rwxr-xr-x   1,8M root 14 sept. 23:54 systemd-analyze
+.rwxr-xr-x    19k root 14 sept. 23:54 systemd-ask-password
+.rwxr-xr-x    19k root 14 sept. 23:54 systemd-cat
+.rwxr-xr-x    23k root 14 sept. 23:54 systemd-cgls
+.rwxr-xr-x    39k root 14 sept. 23:54 systemd-cgtop
+.rwxr-xr-x    48k root 14 sept. 23:54 systemd-cryptenroll
+.rwxr-xr-x    27k root 14 sept. 23:54 systemd-delta
+.rwxr-xr-x    19k root 14 sept. 23:54 systemd-detect-virt
+.rwxr-xr-x    23k root 14 sept. 23:54 systemd-escape
+.rwxr-xr-x   122k root 14 sept. 23:54 systemd-hwdb
+.rwxr-xr-x    27k root 14 sept. 23:54 systemd-id128
+.rwxr-xr-x    23k root 14 sept. 23:54 systemd-inhibit
+.rwxr-xr-x    19k root 14 sept. 23:54 systemd-machine-id-setup
+.rwxr-xr-x    52k root 14 sept. 23:54 systemd-mount
+.rwxr-xr-x    23k root 14 sept. 23:54 systemd-notify
+.rwxr-xr-x    19k root 14 sept. 23:54 systemd-path
+.rwxr-xr-x    64k root 14 sept. 23:54 systemd-run
+.rwxr-xr-x    27k root 14 sept. 23:54 systemd-socket-activate
+.rwxr-xr-x    23k root 14 sept. 23:54 systemd-stdio-bridge
+.rwxr-xr-x    48k root 14 sept. 23:54 systemd-sysext
+.rwxr-xr-x    64k root 14 sept. 23:54 systemd-sysusers
+.rwxr-xr-x   101k root 14 sept. 23:54 systemd-tmpfiles
+.rwxr-xr-x    35k root 14 sept. 23:54 systemd-tty-ask-password-agent
+lrwxrwxrwx     13 root 14 sept. 23:54 systemd-umount -> systemd-mount
+.rwxr-xr-x    78k root  1 mai    2018 sz
+.rwxr-xr-x    19k root 17 janv. 18:02 tabs
+.rwxr-xr-x   105k root  7 févr. 17:03 tac
+.rwxr-xr-x    68k root  7 févr. 17:03 tail
+.rwxr-xr-x   518k root 25 mars  10:52 tar
+.rwxr-xr-x    23k root 21 févr. 02:49 taskset
+.rwxr-xr-x   130k root 23 mars  14:56 tbl
+.rwxr-xr-x    40k root 23 mars  14:49 tbl-dctrl
+lrwxrwxrwx      8 root 25 mars  10:52 tclsh -> tclsh8.6
+.rwxr-xr-x    14k root 25 mars  10:58 tclsh8.6
+.rwxr-xr-x   1,3M root 25 mars  10:52 tcpdump
+.rwxr-xr-x    35k root  7 févr. 17:03 tee
+lrwxrwxrwx     24 root 22 sept. 16:43 telnet -> /etc/alternatives/telnet
+.rwxr-xr-x   110k root 24 mars  17:20 telnet.netkit
+.rwxr-xr-x    14k root 23 mars  14:49 tempfile
+.rwxr-xr-x    43k root  7 févr. 17:03 test
+.rwxr-xr-x    18k root  7 févr.  2021 tgatoppm
+.rwxr-xr-x    23k root  7 févr.  2021 thinkjettopbm
+.rwxr-xr-x    88k root 17 janv. 18:02 tic
+.rwxr-xr-x    27k root  7 févr.  2021 tifftopnm
+.rwxr-xr-x    35k root 24 mars  13:09 tificc
+.rwxr-xr-x    27k root 25 mars  10:52 time
+.rwxr-xr-x    47k root 14 sept. 23:54 timedatectl
+.rwxr-xr-x    40k root  7 févr. 17:03 timeout
+.rwxr-xr-x    19k root 25 févr. 12:57 tload
+.rwxr-xr-x   971k root 25 mars  10:52 tmux
+.rwxr-xr-x   183k root 25 mars  11:01 tnftp
+.rwxr-xr-x    23k root 17 janv. 18:02 toe
+.rwxr-xr-x    27k root 25 déc.   2021 toilet
+.rwxr-xr-x   133k root 25 févr. 12:57 top
+.rwxr-xr-x    23k root 21 mars  14:51 totem
+.rwxr-xr-x    39k root 21 mars  14:51 totem-video-thumbnailer
+.rwxr-xr-x    93k root  7 févr. 17:03 touch
+.rwxr-xr-x   331k root  6 juil. 00:33 touchegg
+.rwxr-xr-x    27k root 17 janv. 18:02 tput
+.rwxr-xr-x    48k root  7 févr. 17:03 tr
+.rwxr-xr-x    23k root  5 févr. 05:37 tracepath
+.rwxr-xr-x   628k root 21 mars  17:14 tracker3
+.rwxr-xr-x    35k root 24 mars  13:09 transicc
+.rwxr-xr-x    23k root 25 mars  10:53 transset
+.rwxr-xr-x    81k root 17 févr. 07:55 tree
+.rwxr-xr-x   736k root 23 mars  14:56 troff
+.rwxr-xr-x    27k root  7 févr. 17:03 true
+.rwxr-xr-x    35k root  7 févr. 17:03 truncate
+.rwxr-xr-x   211k root 24 mars  17:22 trust
+.rwxr-xr-x    27k root 17 janv. 18:02 tset
+.rwxr-xr-x    48k root  7 févr. 17:03 tsort
+.rwxr-xr-x    31k root  7 févr. 17:03 tty
+.rwxr-xr-x    15k root  7 juil. 01:23 tzselect
+lrwxrwxrwx     16 root 12 juil. 20:10 ua -> ubuntu-advantage
+.rwxr-xr-x   1,0k root 12 juil. 20:10 ubuntu-advantage
+lrwxrwxrwx     10 root 10 mai   15:23 ubuntu-bug -> apport-bug
+.rwxr-xr-x    23k root 23 mars  14:50 ubuntu-distro-info
+.rwxr-xr-x    17k root 11 mai   23:04 ubuntu-drivers
+.rwxr-xr-x    42k root 16 juin   2020 ucf
+.rwxr-xr-x    19k root 16 juin   2020 ucfq
+.rwxr-xr-x    11k root 16 juin   2020 ucfr
+.rwxr-xr-x    27k root 21 févr. 02:49 uclampset
+.rwxr-xr-x    56k root  4 nov.   2021 uconv
+.rwxr-xr-x    27k root 25 mars  10:54 ucs2any
+.rwxr-xr-x   1,1M root 14 sept. 23:54 udevadm
+.rwxr-xr-x    60k root  7 avril 23:17 udisksctl
+.rwxr-xr-x    23k root 21 févr. 02:49 ul
+.rwxr-xr-x   184k root 27 mars  18:31 umax_pp
+.rwsr-xr-x    35k root 21 févr. 02:49 umount
+.rwxr-xr-x    35k root  7 févr. 17:03 uname
+.rwxr-xr-x   2,3k root  8 avril 12:53 uncompress
+.rwxr-xr-x    35k root  7 févr. 17:03 unexpand
+.rwxr-xr-x   2,8k root 24 mars  13:06 unicode_start
+.rwxr-xr-x    530 root 24 mars  13:06 unicode_stop
+.rwxr-xr-x    44k root  7 févr. 17:03 uniq
+.rwxr-xr-x    15k root 24 mars  17:13 unity-scope-loader
+.rwxr-xr-x    31k root  7 févr. 17:03 unlink
+lrwxrwxrwx     24 root 22 sept. 16:37 unlzma -> /etc/alternatives/unlzma
+.rwxr-xr-x   3,8k root  8 févr. 20:54 unmkinitramfs
+.rwxr-xr-x     52 root  5 sept. 16:18 unopkg
+.rwxr-xr-x   138k root  6 févr.  2021 unpigz
+.rwxr-xr-x    31k root 21 févr. 02:49 unshare
+lrwxrwxrwx      2 root  8 avril 14:51 unxz -> xz
+.rwxr-xr-x   175k root 25 mars  10:59 unzip
+.rwxr-xr-x    80k root 25 mars  10:59 unzipsfx
+lrwxrwxrwx      4 root 24 mars  17:15 unzstd -> zstd
+.rwxr-xr-x    60k root 25 mai   13:11 update-alternatives
+.rwxr-xr-x    23k root 23 mars  14:50 update-desktop-database
+.rwxr-xr-x   154k root 22 mars   2020 update-menus
+.rwxr-xr-x    60k root 14 janv. 10:18 update-mime-database
+.rwxr-xr-x    23k root  9 mars  19:59 upower
+.rwxr-xr-x    15k root 25 févr. 12:57 uptime
+.rwxr-xr-x   4,4k root 25 mars  10:53 usb-devices
+.rwxr-xr-x    15k root 23 mars  14:52 usb_printerid
+.rwxr-xr-x    31k root 25 mars  10:53 usbhid-dump
+.rwxr-xr-x    15k root 25 mars  10:53 usbreset
+.rwxr-xr-x    35k root  7 févr. 17:03 users
+.rwxr-xr-x    23k root 21 févr. 02:49 utmpdump
+.rwxr-xr-x    15k root 21 févr. 02:49 uuidgen
+.rwxr-xr-x    23k root 21 févr. 02:49 uuidparse
+.rwxr-xr-x   138k root  7 févr. 17:03 vdir
+lrwxrwxrwx     20 root 19 févr. 08:28 vi -> /etc/alternatives/vi
+lrwxrwxrwx     22 root 19 févr. 08:28 view -> /etc/alternatives/view
+.rwxr-xr-x    32k root 25 mars  10:53 viewres
+lrwxrwxrwx     21 root 12 oct.  12:28 vim -> /etc/alternatives/vim
+.rwxr-xr-x   3,8M root 13 sept. 11:35 vim.basic
+.rwxr-xr-x   1,5M root 13 sept. 11:35 vim.tiny
+lrwxrwxrwx     25 root 12 oct.  12:28 vimdiff -> /etc/alternatives/vimdiff
+.rwxr-xr-x   2,2k root 13 sept. 11:35 vimtutor
+.rwxr-xr-x    39k root 25 févr. 12:57 vmstat
+.rwxr-xr-x    15k root  2 mars  15:32 vmwarectrl
+.rwxr-xr-x    27k root 28 juin  17:25 vstp
+.rwxr-xr-x    23k root 25 févr. 12:57 w
+.rwxr-xr-x   1,5M root 25 mars  10:59 w3m
+.rwxr-xr-x   1,3k root 25 mars  10:59 w3mman
+.rwxr-sr-x    23k root 21 févr. 02:49 wall
+.rwxr-xr-x    27k root 25 févr. 12:57 watch
+.rwxr-xr-x    19k root  4 juil. 18:17 watchgnupg
+.rwxr-xr-x    14k root  7 févr.  2021 wbmptopbm
+.rwxr-xr-x    43k root  7 févr. 17:03 wc
+.rwxr-xr-x    31k root 21 févr. 02:49 wdctl
+.rwxr-xr-x   527k root 24 janv. 12:59 wget
+.rwxr-xr-x    48k root 17 mars  20:03 whatis
+.rwxr-xr-x    32k root 21 févr. 02:49 whereis
+lrwxrwxrwx     23 root 19 févr. 08:27 which -> /etc/alternatives/which
+.rwxr-xr-x    946 root 23 mars  14:49 which.debianutils
+.rwxr-xr-x    31k root 17 mars  20:30 whiptail
+.rwxr-xr-x    52k root  7 févr. 17:03 who
+.rwxr-xr-x    31k root  7 févr. 17:03 whoami
+.rwxr-xr-x    48k root 22 févr. 23:37 whoopsie
+.rwxr-xr-x    23k root 22 févr. 23:54 whoopsie-preferences
+.rwxr-xr-x    23k root  7 févr.  2021 winicontoppm
+.rwxr-xr-x    23k root 25 juil. 21:06 wireplumber
+lrwxrwxrwx      7 root 25 mars  10:52 wish -> wish8.6
+.rwxr-xr-x    14k root 25 mars  10:52 wish8.6
+.rwxr-xr-x    27k root 20 août   2018 wmdocker
+.rwxr-xr-x    15k root 23 mars  10:41 word-list-compress
+.rwxr-xr-x    15k root  3 juin  23:28 wpa_passphrase
+.rwxr-xr-x    47k root 25 juil. 21:06 wpctl
+.rwxr-xr-x    23k root 25 juil. 21:06 wpexec
+lrwxrwxrwx     23 root 22 sept. 16:37 write -> /etc/alternatives/write
+.rwxr-sr-x    23k root 21 févr. 02:49 write.ul
+lrwxrwxrwx     29 root 12 oct.  15:04 www-browser -> /etc/alternatives/www-browser
+lrwxrwxrwx      4 root  6 juil. 15:45 X -> Xorg
+lrwxrwxrwx     35 root 22 sept. 16:38 x-session-manager -> /etc/alternatives/x-session-manager
+lrwxrwxrwx     37 root 22 sept. 16:39 x-terminal-emulator -> /etc/alternatives/x-terminal-emulator
+lrwxrwxrwx      1 root 25 mars  10:58 X11 -> .
+.rwxr-xr-x   202k root 25 mars  10:53 x11perf
+.rwxr-xr-x   2,8k root 25 mars  10:53 x11perfcomp
+lrwxrwxrwx      7 root 21 févr. 02:49 x86_64 -> setarch
+.rwxr-xr-x    27k root 12 mars  06:55 x86_64-linux-gnu-addr2line
+.rwxr-xr-x    56k root 12 mars  06:55 x86_64-linux-gnu-ar
+.rwxr-xr-x   467k root 12 mars  06:55 x86_64-linux-gnu-as
+.rwxr-xr-x    23k root 12 mars  06:55 x86_64-linux-gnu-c++filt
+lrwxrwxrwx      6 root  5 août   2021 x86_64-linux-gnu-cpp -> cpp-11
+.rwxr-xr-x   863k root 24 mars  15:22 x86_64-linux-gnu-cpp-11
+.rwxr-xr-x   1,9M root 12 mars  06:55 x86_64-linux-gnu-dwp
+.rwxr-xr-x    36k root 12 mars  06:55 x86_64-linux-gnu-elfedit
+lrwxrwxrwx      6 root  5 août   2021 x86_64-linux-gnu-g++ -> g++-11
+.rwxr-xr-x   863k root 24 mars  15:22 x86_64-linux-gnu-g++-11
+lrwxrwxrwx      6 root  5 août   2021 x86_64-linux-gnu-gcc -> gcc-11
+.rwxr-xr-x   863k root 24 mars  15:22 x86_64-linux-gnu-gcc-11
+lrwxrwxrwx      9 root  5 août   2021 x86_64-linux-gnu-gcc-ar -> gcc-ar-11
+.rwxr-xr-x    27k root 24 mars  15:22 x86_64-linux-gnu-gcc-ar-11
+lrwxrwxrwx      9 root  5 août   2021 x86_64-linux-gnu-gcc-nm -> gcc-nm-11
+.rwxr-xr-x    27k root 24 mars  15:22 x86_64-linux-gnu-gcc-nm-11
+lrwxrwxrwx     13 root  5 août   2021 x86_64-linux-gnu-gcc-ranlib -> gcc-ranlib-11
+.rwxr-xr-x    27k root 24 mars  15:22 x86_64-linux-gnu-gcc-ranlib-11
+lrwxrwxrwx      7 root  5 août   2021 x86_64-linux-gnu-gcov -> gcov-11
+.rwxr-xr-x   410k root 24 mars  15:22 x86_64-linux-gnu-gcov-11
+lrwxrwxrwx     12 root  5 août   2021 x86_64-linux-gnu-gcov-dump -> gcov-dump-11
+.rwxr-xr-x   258k root 24 mars  15:22 x86_64-linux-gnu-gcov-dump-11
+lrwxrwxrwx     12 root  5 août   2021 x86_64-linux-gnu-gcov-tool -> gcov-tool-11
+.rwxr-xr-x   283k root 24 mars  15:22 x86_64-linux-gnu-gcov-tool-11
+lrwxrwxrwx     24 root 12 mars  06:55 x86_64-linux-gnu-gold -> x86_64-linux-gnu-ld.gold
+.rwxr-xr-x   114k root 12 mars  06:55 x86_64-linux-gnu-gprof
+lrwxrwxrwx     23 root 12 mars  06:55 x86_64-linux-gnu-ld -> x86_64-linux-gnu-ld.bfd
+.rwxr-xr-x   1,7M root 12 mars  06:55 x86_64-linux-gnu-ld.bfd
+.rwxr-xr-x   3,2M root 12 mars  06:55 x86_64-linux-gnu-ld.gold
+.rwxr-xr-x    25M root 24 mars  15:22 x86_64-linux-gnu-lto-dump-11
+.rwxr-xr-x    45k root 12 mars  06:55 x86_64-linux-gnu-nm
+.rwxr-xr-x   166k root 12 mars  06:55 x86_64-linux-gnu-objcopy
+.rwxr-xr-x   378k root 12 mars  06:55 x86_64-linux-gnu-objdump
+lrwxrwxrwx     34 root 22 sept. 16:43 x86_64-linux-gnu-pkg-config -> /usr/share/pkg-config-crosswrapper
+.rwxr-xr-x    56k root 12 mars  06:55 x86_64-linux-gnu-ranlib
+.rwxr-xr-x   781k root 12 mars  06:55 x86_64-linux-gnu-readelf
+.rwxr-xr-x    31k root 12 mars  06:55 x86_64-linux-gnu-size
+.rwxr-xr-x    31k root 12 mars  06:55 x86_64-linux-gnu-strings
+.rwxr-xr-x   166k root 12 mars  06:55 x86_64-linux-gnu-strip
+.rwxr-xr-x    51k root 24 mars  17:22 x86_64-pc-linux-gnu-pkg-config
+.rwxr-xr-x    64k root 23 mars  14:52 xargs
+.rwxr-xr-x    56k root 25 mars  10:53 xauth
+.rwxr-xr-x    25k root 25 mars  10:53 xbiff
+.rwxr-xr-x    14k root  7 févr.  2021 xbmtopbm
+.rwxr-xr-x   203k root 28 juin  17:25 xbrlapi
+.rwxr-xr-x    49k root 25 mars  10:53 xcalc
+.rwxr-xr-x    31k root 26 déc.   2020 xclip
+.rwxr-xr-x    572 root 26 déc.   2020 xclip-copyfile
+.rwxr-xr-x    389 root 26 déc.   2020 xclip-cutfile
+.rwxr-xr-x    136 root 26 déc.   2020 xclip-pastefile
+.rwxr-xr-x    23k root 25 mars  10:53 xclipboard
+.rwxr-xr-x    63k root 25 mars  10:53 xclock
+.rwxr-xr-x    36k root 25 mars  10:53 xcmsdb
+.rwxr-xr-x    24k root 25 mars  10:53 xconsole
+.rwxr-xr-x    23k root 25 mars  10:53 xcursorgen
+.rwxr-xr-x    19k root 25 mars  10:53 xcutsel
+.rwxr-xr-x    51k root 11 févr. 13:00 xdg-dbus-proxy
+.rwxr-xr-x    21k root 22 août  16:47 xdg-desktop-icon
+.rwxr-xr-x    43k root 22 août  16:47 xdg-desktop-menu
+.rwxr-xr-x    27k root 22 août  16:47 xdg-email
+.rwxr-xr-x    30k root 22 août  16:47 xdg-icon-resource
+.rwxr-xr-x    42k root 22 août  16:47 xdg-mime
+.rwxr-xr-x    26k root 22 août  16:47 xdg-open
+.rwxr-xr-x    38k root 22 août  16:47 xdg-screensaver
+.rwxr-xr-x    38k root 22 août  16:47 xdg-settings
+.rwxr-xr-x    234 root 25 mars  10:54 xdg-user-dir
+.rwxr-xr-x    23k root 25 mars  10:54 xdg-user-dirs-gtk-update
+.rwxr-xr-x    27k root 25 mars  10:54 xdg-user-dirs-update
+.rwxr-xr-x   111k root 25 mars  10:53 xditview
+.rwxr-xr-x    81k root 11 juin   2018 xdotool
+.rwxr-xr-x    40k root 25 mars  10:53 xdpyinfo
+.rwxr-xr-x    15k root 25 mars  10:53 xdriinfo
+.rwxr-xr-x   726k root 25 mars  10:53 xedit
+.rwxr-xr-x   2,5M root  6 juil. 15:45 Xephyr
+.rwxr-xr-x    35k root 25 mars  10:53 xev
+.rwxr-xr-x    24k root 25 mars  10:53 xeyes
+.rwxr-xr-x    41k root 25 mars  10:53 xfd
+.rwxr-xr-x    45k root 25 mars  10:53 xfontsel
+.rwxr-xr-x    15k root 25 mars  10:53 xgamma
+.rwxr-xr-x    72k root 25 mars  10:53 xgc
+.rwxr-xr-x    19k root 25 mars  10:53 xhost
+.rwxr-xr-x    14k root  7 févr.  2021 ximtoppm
+.rwxr-xr-x    23k root 25 mars  11:00 xinit
+.rwxr-xr-x    64k root 25 mars  10:54 xinput
+.rwxr-xr-x    15k root 25 mars  10:53 xkbbell
+.rwxr-xr-x   217k root 25 mars  10:53 xkbcomp
+.rwxr-xr-x    43k root 25 mars  10:53 xkbevd
+.rwxr-xr-x    93k root 25 mars  10:53 xkbprint
+.rwxr-xr-x    24k root 25 mars  10:53 xkbvleds
+.rwxr-xr-x    24k root 25 mars  10:53 xkbwatch
+.rwxr-xr-x    17k root 25 mars  10:53 xkeystone
+.rwxr-xr-x    15k root 25 mars  10:53 xkill
+.rwxr-xr-x    23k root 25 mars  10:53 xload
+.rwxr-xr-x    24k root 25 mars  10:53 xlogo
+.rwxr-xr-x    15k root 25 mars  10:53 xlsatoms
+.rwxr-xr-x    19k root 25 mars  10:53 xlsclients
+.rwxr-xr-x    27k root 25 mars  10:53 xlsfonts
+.rwxr-xr-x    49k root 25 mars  10:53 xmag
+.rwxr-xr-x    79k root 25 mars  10:53 xman
+.rwxr-xr-x    24k root 25 mars  10:53 xmessage
+.rwxr-xr-x   1,5k root 15 juin   2021 xminicom
+.rwxr-xr-x   1,4k root  9 mai   20:33 xml2-config
+.rwxr-xr-x    44k root 25 mars  10:53 xmodmap
+.rwxr-xr-x    15k root 25 mars  10:53 xmore
+.rwxr-xr-x    274 root  6 juil. 15:45 Xorg
+.rwxr-xr-x    19k root  7 févr.  2021 xpmtoppm
+.rwxr-xr-x    50k root 25 mars  10:53 xprop
+.rwxr-xr-x    19k root 23 mars  14:52 xqxdecode
+.rwxr-xr-x    64k root 25 mars  10:53 xrandr
+.rwxr-xr-x    35k root 25 mars  10:53 xrdb
+.rwxr-xr-x    15k root 25 mars  10:53 xrefresh
+.rwxr-xr-x    35k root 25 mars  10:53 xset
+.rwxr-xr-x    15k root 25 mars  10:53 xsetmode
+.rwxr-xr-x    15k root 25 mars  10:53 xsetpointer
+.rwxr-xr-x    19k root 25 mars  10:53 xsetroot
+.rwxr-xr-x    65k root  6 avril 09:39 xsetwacom
+.rwxr-xr-x   101k root 25 mars  10:53 xsm
+.rwxr-xr-x    15k root 25 mars  10:53 xstdcmap
+.rwxr-xr-x   5,2k root  6 févr. 12:02 xsubpp
+.rwxr-xr-x    45k root 25 mars  10:53 xvidtune
+.rwxr-xr-x    19k root 25 mars  10:53 xvinfo
+.rwxr-xr-x    14k root  7 févr.  2021 xvminitoppm
+.rwxr-xr-x   2,2M root  6 juil. 16:36 Xwayland
+.rwxr-xr-x    31k root 25 mars  10:53 xwd
+.rwxr-xr-x    23k root  7 févr.  2021 xwdtopnm
+.rwxr-xr-x    52k root 25 mars  10:53 xwininfo
+.rwxr-xr-x    35k root 25 mars  10:53 xwud
+.rwxr-xr-x    19k root 13 sept. 11:35 xxd
+.rwxr-xr-x    85k root  8 avril 14:51 xz
+lrwxrwxrwx      2 root  8 avril 14:51 xzcat -> xz
+lrwxrwxrwx      6 root  8 avril 14:51 xzcmp -> xzdiff
+.rwxr-xr-x   7,0k root  8 avril 14:51 xzdiff
+lrwxrwxrwx      6 root  8 avril 14:51 xzegrep -> xzgrep
+lrwxrwxrwx      6 root  8 avril 14:51 xzfgrep -> xzgrep
+.rwxr-xr-x   6,0k root  8 avril 14:51 xzgrep
+.rwxr-xr-x   1,8k root  8 avril 14:51 xzless
+.rwxr-xr-x   2,2k root  8 avril 14:51 xzmore
+.rwxr-xr-x    14k root  7 févr.  2021 ybmtopbm
+.rwxr-xr-x    68k root 28 mars  14:21 yelp
+.rwxr-xr-x    31k root  7 févr. 17:03 yes
+lrwxrwxrwx      8 root 23 mars  14:57 ypdomainname -> hostname
+.rwxr-xr-x    14k root  7 févr.  2021 yuvsplittoppm
+.rwxr-xr-x    14k root  7 févr.  2021 yuvtoppm
+.rwxr-xr-x   2,0k root  8 avril 12:53 zcat
+.rwxr-xr-x   1,7k root  8 avril 12:53 zcmp
+.rwxr-xr-x   5,9k root  8 avril 12:53 zdiff
+.rwxr-xr-x    27k root  7 juil. 01:23 zdump
+.rwxr-xr-x     29 root  8 avril 12:53 zegrep
+.rwxr-xr-x    14k root  7 févr.  2021 zeisstopnm
+.rwxr-xr-x   132k root  1 mai   20:39 zenity
+.rwxr-xr-x     29 root  8 avril 12:53 zfgrep
+.rwxr-xr-x   2,1k root  8 avril 12:53 zforce
+.rwxr-xr-x   8,1k root  8 avril 12:53 zgrep
+.rwxr-xr-x   204k root 25 mars  10:55 zip
+.rwxr-xr-x    72k root 25 mars  10:55 zipcloak
+.rwxr-xr-x    60k root  6 févr. 12:02 zipdetails
+.rwxr-xr-x   3,0k root 25 mars  10:59 zipgrep
+.rwxr-xr-x   175k root 25 mars  10:59 zipinfo
+.rwxr-xr-x    64k root 25 mars  10:55 zipnote
+.rwxr-xr-x    60k root 25 mars  10:55 zipsplit
+.rwxr-xr-x    27k root 23 mars  14:52 zjsdecode
+.rwxr-xr-x   2,2k root  8 avril 12:53 zless
+.rwxr-xr-x   1,8k root  8 avril 12:53 zmore
+.rwxr-xr-x   4,6k root  8 avril 12:53 znew
+.rwxr-xr-x   1,0M root 12 févr. 23:00 zsh
+.rwxr-xr-x    852 root 12 févr. 20:54 zsh5
+.rwxr-xr-x   875k root 24 mars  17:15 zstd
+lrwxrwxrwx      4 root 24 mars  17:15 zstdcat -> zstd
+.rwxr-xr-x   3,9k root 24 mars  17:15 zstdgrep
+.rwxr-xr-x     30 root 24 mars  17:15 zstdless
+lrwxrwxrwx      4 root 24 mars  17:15 zstdmt -> zstd
+drwxr-xr-x    - root 22 sept. 16:39 accountsservice
+drwxr-xr-x    - root 22 sept. 16:39 apg
+drwxr-xr-x    - root 22 sept. 16:42 apparmor
+drwxr-xr-x    - root 22 sept. 16:04 apt
+drwxr-xr-x    - root 22 sept. 16:38 aspell
+drwxr-xr-x    - root 22 sept. 16:39 bfd-plugins
+drwxr-xr-x    - root 28 janv. 10:46 binfmt.d
+drwxr-xr-x    - root 22 sept. 16:40 bluetooth
+drwxr-xr-x    - root 22 sept. 16:43 brltty
+drwxr-xr-x    - root 22 sept. 16:38 cargo
+.rwxr-xr-x 1,1k root  8 déc.   2021 cnf-update-db
+.rwxr-xr-x 3,6k root  8 déc.   2021 command-not-found
+drwxr-xr-x    - root 22 sept. 16:39 compat-ld
+drwxr-xr-x    - root 19 févr. 08:27 console-setup
+lrwxrwxrwx   21 root 22 sept. 16:39 cpp -> /etc/alternatives/cpp
+drwxr-xr-x    - root 22 sept. 16:43 crda
+drwxr-xr-x    - root 22 sept. 16:40 cryptsetup
+drwxr-xr-x    - root 22 sept. 16:41 cups
+drwxr-xr-x    - root 22 sept. 16:02 dbus-1.0
+drwxr-xr-x    - root 22 sept. 16:54 dkms
+drwxr-xr-x    - root 19 févr. 08:27 dpkg
+drwxr-xr-x    - root 22 sept. 16:38 emacsen-common
+drwxr-xr-x    - root 22 sept. 16:04 environment.d
+drwxr-xr-x    - root 22 sept. 16:42 evolution-data-server
+drwxr-xr-x    - root 22 sept. 16:37 file
+drwxr-xr-x    - root 22 sept. 16:42 finalrd
+drwxr-xr-x    - root 22 sept. 16:42 firefox
+drwxr-xr-x    - root 22 sept. 16:40 firewalld
+drwxr-xr-x    - root 22 sept. 16:43 firmware
+drwxr-xr-x    - root 22 sept. 16:39 gcc
+drwxr-xr-x    - root 22 sept. 16:37 girepository-1.0
+drwxr-xr-x    - root 17 oct.  09:36 git-core
+drwxr-xr-x    - root 22 sept. 16:39 gnome-initial-setup
+drwxr-xr-x    - root 22 sept. 16:38 gnome-session
+drwxr-xr-x    - root 22 sept. 16:40 gnome-settings-daemon-3.0
+drwxr-xr-x    - root 22 sept. 16:38 gnome-settings-daemon-42
+drwxr-xr-x    - root 22 sept. 16:38 gnome-shell
+drwxr-xr-x    - root 12 oct.  14:34 gnome-tweak-tool
+drwxr-xr-x    - root 22 sept. 16:04 gnupg
+drwxr-xr-x    - root 22 sept. 16:04 gnupg2
+drwxr-xr-x    - root 22 sept. 16:39 gold-ld
+drwxr-xr-x    - root 22 sept. 16:37 groff
+drwxr-xr-x    - root 12 oct.  12:02 grub
+drwxr-xr-x    - root 12 oct.  12:02 grub-legacy
+drwxr-xr-x    - root 22 sept. 16:40 gvfs
+drwxr-xr-x    - root 22 sept. 16:37 hdparm
+drwxr-xr-x    - root 22 sept. 16:42 hidpi-daemon
+drwxr-xr-x    - root 22 sept. 16:41 ifupdown
+drwxr-xr-x    - root 19 févr. 08:27 init
+drwxr-xr-x    - root 22 sept. 16:42 initramfs-tools
+drwxr-xr-x    - root 12 oct.  15:46 ipxe
+drwxr-xr-x    - root 22 sept. 16:38 ispell
+drwxr-xr-x    - root 19 févr. 08:27 kernel
+drwxr-xr-x    - root 22 sept. 16:42 klibc
+.rwxr-xr-x  79k root 31 janv. 00:28 klibc-K8e6DOmVI9JpyGMLR7qNe5iZeBk.so
+.rw-r--r-- 8,0M root 12 août  02:12 libfirmware_manager.so
+lrwxrwxrwx   22 root 22 sept. 16:45 libfirmware_manager.so.0 -> libfirmware_manager.so
+lrwxrwxrwx   17 root  7 févr.  2021 libnetpbm.so.10 -> libnetpbm.so.10.0
+.rw-r--r-- 155k root  7 févr.  2021 libnetpbm.so.10.0
+.rw-r--r-- 2,8M root 28 juin  21:30 libpop_analytics_panel.so
+lrwxrwxrwx   25 root 22 sept. 16:45 libpop_analytics_panel.so.1 -> libpop_analytics_panel.so
+.rw-r--r-- 2,3M root 25 août  21:16 libpop_desktop_widget.so
+lrwxrwxrwx   24 root 22 sept. 16:45 libpop_desktop_widget.so.0 -> libpop_desktop_widget.so
+.rw-r--r-- 2,4M root  8 août  17:00 libpop_support.so
+lrwxrwxrwx   17 root 22 sept. 16:45 libpop_support.so.1 -> libpop_support.so
+.rw-r--r-- 5,4M root 14 sept. 21:21 libpop_system_updater_gtk.so
+lrwxrwxrwx   28 root 22 sept. 16:45 libpop_system_updater_gtk.so.0 -> libpop_system_updater_gtk.so
+.rw-r--r-- 424k root 15 avril 19:37 libpop_theme_switcher.so
+lrwxrwxrwx   24 root 22 sept. 16:45 libpop_theme_switcher.so.0 -> libpop_theme_switcher.so
+.rw-r--r-- 3,3M root 15 août  20:33 libpop_upgrade_gtk.so
+lrwxrwxrwx   21 root 22 sept. 16:45 libpop_upgrade_gtk.so.1 -> libpop_upgrade_gtk.so
+drwxr-xr-x    - root 22 sept. 16:43 libreoffice
+.rw-r--r-- 309k root 28 janv. 05:58 libs76_hidpi_widget.so
+lrwxrwxrwx   22 root 22 sept. 16:45 libs76_hidpi_widget.so.0 -> libs76_hidpi_widget.so
+drwxr-xr-x    - root 22 sept. 16:41 linux
+drwxr-xr-x    - root 12 oct.  12:02 linux-boot-probes
+drwxr-xr-x    - root 22 sept. 16:41 linux-sound-base
+drwxr-xr-x    - root 22 sept. 16:42 llvm-11
+drwxr-xr-x    - root 22 sept. 16:52 locale
+drwxr-xr-x    - root 22 sept. 16:43 lp_solve
+drwxr-xr-x    - root 22 sept. 16:02 lsb
+drwxr-xr-x    - root 22 sept. 16:37 man-db
+drwxr-xr-x    - root 29 août   2021 mime
+drwxr-xr-x    - root 22 sept. 16:41 modprobe.d
+drwxr-xr-x    - root 22 sept. 16:41 modules
+drwxr-xr-x    - root 22 sept. 16:41 modules-load.d
+drwxr-xr-x    - root 22 sept. 16:39 mozilla
+drwxr-xr-x    - root 22 sept. 16:04 netplan
+drwxr-xr-x    - root 19 févr. 08:27 networkd-dispatcher
+drwxr-xr-x    - root 22 sept. 16:40 NetworkManager
+drwxr-xr-x    - root 22 sept. 16:41 nvidia
+drwxr-xr-x    - root 22 sept. 16:42 openssh
+drwxr-xr-x    - root 22 sept. 16:40 openvpn
+drwxr-xr-x    - root 12 oct.  12:02 os-prober
+drwxr-xr-x    - root 12 oct.  12:02 os-probes
+lrwxrwxrwx   27 root 22 sept. 16:37 os-release -> ../../etc/pop-os/os-release
+.rw-r--r--  386 root 28 juil. 17:29 os-release.diverted
+drwxr-xr-x    - root 22 sept. 16:04 pam.d
+drwxr-xr-x    - root 12 oct.  16:33 password-store
+drwxr-xr-x    - root 22 sept. 16:41 pcmciautils
+.rw-r--r--   17 root 24 mars  17:22 pkg-config.multiarch
+drwxr-xr-x    - root 12 oct.  13:57 pkgconfig
+drwxr-xr-x    - root 22 sept. 16:37 pm-utils
+drwxr-xr-x    - root 22 sept. 16:03 policykit-1
+drwxr-xr-x    - root 22 sept. 16:03 polkit-1
+drwxr-xr-x    - root 22 sept. 16:38 pop-launcher
+drwxr-xr-x    - root 22 sept. 16:38 pop-shell
+drwxr-xr-x    - root 22 sept. 16:45 pop-transition
+drwxr-xr-x    - root 22 sept. 16:39 pop-upgrade
+drwxr-xr-x    - root 22 sept. 16:40 pppd
+drwxr-xr-x    - root 22 sept. 16:43 printer-driver-escpr
+drwxr-xr-x    - root 19 févr. 08:27 python2.7
+drwxr-xr-x    - root 19 févr. 08:27 python3
+drwxr-xr-x    - root 19 févr. 08:27 python3.9
+drwxr-xr-x    - root 22 sept. 16:42 python3.10
+drwxr-xr-x    - root 12 oct.  15:46 qemu
+drwxr-xr-x    - root 22 sept. 16:42 recovery-mode
+drwxr-xr-x    - root 22 sept. 16:37 repolib
+drwxr-xr-x    - root 22 sept. 16:43 repoman
+drwxr-xr-x    - root 22 sept. 16:40 resolvconf
+drwxr-xr-x    - root 22 sept. 16:04 rsyslog
+drwxr-xr-x    - root 22 févr. 20:17 sasl2
+drwxr-xr-x    - root 22 sept. 16:04 software-properties
+drwxr-xr-x    - root 22 sept. 16:43 speech-dispatcher-modules
+drwxr-xr-x    - root 22 sept. 16:04 ssl
+drwxr-xr-x    - root 22 sept. 16:38 sysctl.d
+drwxr-xr-x    - root 12 oct.  13:57 systemd
+drwxr-xr-x    - root 22 sept. 16:42 sysusers.d
+drwxr-xr-x    - root 22 sept. 16:03 tc
+drwxr-xr-x    - root 17 oct.  09:36 tcltk
+drwxr-xr-x    - root 17 janv. 18:02 terminfo
+drwxr-xr-x    - root 15 oct.  12:05 tmpfiles.d
+drwxr-xr-x    - root 22 sept. 16:41 ubiquity
+drwxr-xr-x    - root 22 sept. 16:04 ubuntu-advantage
+drwxr-xr-x    - root 12 oct.  13:57 udev
+drwxr-xr-x    - root 22 sept. 16:38 udisks2
+drwxr-xr-x    - root 22 sept. 16:42 ufw
+drwxr-xr-x    - root 22 sept. 16:40 unity-settings-daemon-1.0
+drwxr-xr-x    - root 19 févr. 08:27 usrmerge
+drwxr-xr-x    - root 22 sept. 16:03 valgrind
+drwxr-xr-x    - root 12 oct.  15:04 w3m
+drwxr-xr-x    - root 22 sept. 16:40 X11
+drwxr-xr-x    - root 18 oct.  09:33 x86_64-linux-gnu
+drwxr-xr-x    - root 22 sept. 16:43 xorg
+drwxr-xr-x    - root 22 sept. 16:43 xserver-xorg-video-intel
+Je suis une nouvelle ligne
